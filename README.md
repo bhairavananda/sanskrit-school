@@ -1,36 +1,80 @@
-# sanskrit school
+<div align="center">
 
-A 35-stage syllabus integrating Sanskrit language acquisition with bhakti expression, mantric science, Vedic recitation, and classical poetic composition — culminating in Aṣṭāvadhāna competence.
+# संस्कृत शाला
 
-## Structure
+**sanskrit school**
 
-| Stages | Stream | Focus |
-|--------|--------|-------|
-| 1–12 | Language Acquisition | Nouns → free composition, grounded in devotional context |
-| 13–15, 17–25 | Poetic Composition | Stotra, chandas, alaṅkāra, rasa, darśana |
-| 16 | Ritual Literacy | Pūjā-Vāk: saṅkalpa, nyāsa, dhyāna, upacāra grammar |
-| 19 | Vedic Literacy | Svara-Vidyā: udātta/anudātta/svarita, vikṛtis |
-| 26–35 | Avadhāna | Eight challenges → full Aṣṭāvadhāna → mastery |
+*From first syllable to Aṣṭāvadhāna — a 35-stage path through the living language.*
 
-## Each Stage Contains
+---
 
-- `theory.md` — Concepts, explanations, examples
-- `reference.md` — Quick-lookup tables, paradigms, lists
-- `workbook-questions.md` — Exercises (no answers)
-- `workbook-answers.md` — Answer key
+Language acquisition · Mantric science · Vedic recitation · Classical poetry · Avadhāna
 
-Plus a `vocab/` library with 20 thematic word lists (goddess names, weapons, nature, ritual, philosophy, etc.).
+</div>
 
-## Web UI
+<br>
 
-Open `index.html` in a browser or serve locally:
+## Overview
+
+Sanskrit is learned here by describing your iṣṭadevatā, not by translating textbook sentences. Every letter has a place in the mouth, an elemental correspondence, and a mantric function. Grammar connects to living worship. The accent system of the Kṛṣṇa Yajurveda is learned by ear and by rule.
+
+Work through the stages sequentially. Master each milestone before moving on.
+
+<br>
+
+## Curriculum
 
 ```
+ ┌──────────────────────────────────────────────────────────┐
+ │  STAGES 1–12    Language Acquisition                     │
+ │                 Nouns → free composition,                │
+ │                 grounded in devotional context            │
+ ├──────────────────────────────────────────────────────────┤
+ │  STAGES 13–15   Poetic Composition                       │
+ │  STAGES 17–25   Stotra, chandas, alaṅkāra, rasa, darśana │
+ ├──────────────────────────────────────────────────────────┤
+ │  STAGE 16       Pūjā-Vāk: Ritual Literacy                │
+ │                 Saṅkalpa, nyāsa, dhyāna, upacāra grammar │
+ ├──────────────────────────────────────────────────────────┤
+ │  STAGE 19       Svara-Vidyā: Vedic Literacy               │
+ │                 Udātta / anudātta / svarita, vikṛtis      │
+ ├──────────────────────────────────────────────────────────┤
+ │  STAGES 26–35   Avadhāna                                  │
+ │                 Eight challenges → full Aṣṭāvadhāna       │
+ └──────────────────────────────────────────────────────────┘
+```
+
+<br>
+
+## Stage Format
+
+Each stage contains four files:
+
+| File | Purpose |
+|:-----|:--------|
+| `theory.md` | Concepts, explanations, examples |
+| `reference.md` | Quick-lookup tables, paradigms, lists |
+| `workbook-questions.md` | Exercises |
+| `workbook-answers.md` | Answer key |
+
+A `vocab/` library provides 20 thematic word lists — goddess names, weapons, nature, ritual, philosophy, and more.
+
+<br>
+
+## Usage
+
+Open `index.html` directly in a browser, or serve locally:
+
+```bash
 python3 -m http.server 8080
 ```
 
-## Approach
+<br>
 
-Sanskrit is learned by describing your iṣṭadevatā, not by translating textbook sentences. Varṇa-Vidyā (Stage 2) establishes that each letter has a place in the mouth, an elemental correspondence, and mantric function. Pūjā-Vāk (Stage 16) connects grammar to living worship. Svara-Vidyā (Stage 19) introduces the Vedic accent system of the Kṛṣṇa Yajurveda.
+<div align="center">
 
-Work through stages sequentially. Master the milestone before moving on.
+---
+
+*śabda-brahman — sound as the ground of reality*
+
+</div>
