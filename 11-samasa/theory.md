@@ -107,3 +107,14 @@ Can you:
 1. Identify the samāsa type of 10 common epithets?
 2. Decompose compounds into their constituent words?
 3. Invent 5 new grammatically valid epithets?
+
+### 🧱 New Bricks Learned
+
+| Brick Type | Examples | Snaps onto... |
+|------------|----------|---------------|
+| Compound mega-bricks (tatpuruṣa) | rāja-putra (king's son), vana-vāsa (forest-dwelling) | Two noun-bricks fused via a hidden vibhakti — the first brick modifies the second |
+| Compound mega-bricks (bahuvrīhi) | nīla-kaṇṭha (blue-throated one), catur-bhuja (four-armed one) | Two bricks fused to describe an *external* entity — the compound points outward, perfect for deity epithets |
+| Compound mega-bricks (dvandva) | rāma-lakṣmaṇau, śiva-pārvatī | Two equal bricks joined by invisible "and" — copulative pairing |
+| Compound mega-bricks (avyayībhāva) | prati-dinam (daily), nir-bhayam (fearlessly) | An indeclinable brick fused with a noun to create an adverb mega-brick |
+
+**Try snapping**: Build a deity epithet by fusing a synonym brick from Stage 10 with a noun brick — e.g., take "nīla" (blue) + "kaṇṭha" (throat) for a bahuvrīhi, then use that compound mega-brick inside a vocative prayer from Stage 8: "he nīlakaṇṭha! pāhi mām!" Remember to apply sandhi from Stage 3 at the junction.

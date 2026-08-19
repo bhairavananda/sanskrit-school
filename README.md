@@ -4,7 +4,7 @@
 
 **sanskrit school**
 
-*From first syllable to Aṣṭāvadhāna — a 35-stage path through the living language.*
+*From first syllable to Aṣṭāvadhāna — a 36-stage path through the living language.*
 
 ---
 
@@ -39,8 +39,10 @@ Work through the stages sequentially. Master each milestone before moving on.
  │  STAGE 19       Svara-Vidyā: Vedic Literacy               │
  │                 Udātta / anudātta / svarita, vikṛtis      │
  ├──────────────────────────────────────────────────────────┤
- │  STAGES 26–35   Avadhāna                                  │
+ │  STAGES 26–36   Avadhāna                                  │
  │                 Eight challenges → full Aṣṭāvadhāna       │
+ │                 Stage 36: Avadhāna-Sevā — Mastery as       │
+ │                 Living Practice                             │
  └──────────────────────────────────────────────────────────┘
 ```
 
@@ -58,6 +60,25 @@ Each stage contains four files:
 | `workbook-answers.md` | Answer key |
 
 A `vocab/` library provides 20 thematic word lists — goddess names, weapons, nature, ritual, philosophy, and more.
+
+<br>
+
+## Two Tracks
+
+The curriculum has two complementary tracks:
+
+- **Numbered stages (01–36)** — the applied learning path. Each stage teaches Sanskrit through devotional context, composition, and practice. You learn by describing your iṣṭadevatā, writing stotras, parsing ritual texts, and building toward Aṣṭāvadhāna.
+
+- **vyākaraṇam/** — formal Pāṇinian grammar. Deeper and more systematic, this section covers the Aṣṭādhyāyī's rule system, sandhi, samāsa, and kāraka theory in full technical detail. It is designed to complement (not replace) the stages.
+
+**Cross-references between tracks:**
+
+| Stage | vyākaraṇam chapter |
+|:------|:-------------------|
+| Stage 2 (Varṇa-Vidyā) | Ch. 1 |
+| Stage 3 (Guṇa) | Ch. 2 |
+| Stage 6 (Kāraka) | Ch. 4 |
+| Stage 11 (Vākya) | Ch. 5 |
 
 <br>
 

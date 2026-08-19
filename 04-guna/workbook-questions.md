@@ -95,4 +95,33 @@
 
 ---
 
-**Total: 60 marks**
+## Section F: Composition (20 marks)
+
+**F1.** Describe your iṣṭadevatā using at least 3 adjectives in a complete sentence. Ensure all adjectives agree with the deity name in gender, number, and case. Write 2 such sentences. (6 marks)
+
+1. ___
+2. ___
+
+**F2.** Write 2 sentences comparing two deities using the **-tara** (comparative) form. Use the pañcamī (ablative) for the entity being compared against. (6 marks)
+
+Example: rāmaḥ rāvaṇāt dhīrataraḥ — Rāma is more steadfast than Rāvaṇa.
+
+1. ___
+2. ___
+
+**F3.** Write a sentence using the **-tama** (superlative) form to describe a deity as the greatest in some quality among all. (4 marks)
+
+Example: devī sarveṣu tejasvitatamā — The Devī is the most radiant among all.
+
+1. ___
+
+**F4.** Use a participial adjective (-at/-ant or -māna form) to describe a deity performing an action. Write 2 sentences. (4 marks)
+
+Example: rakṣan śivaḥ bhaktam pāti — The protecting Śiva guards the devotee.
+
+1. ___
+2. ___
+
+---
+
+**Total: 80 marks**

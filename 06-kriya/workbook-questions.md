@@ -94,4 +94,66 @@ Write a sequence of at least 8 Sanskrit sentences describing your daily worship 
 
 ---
 
-**Total: 60 marks**
+## Section F: Past Tense — Laṅ-lakāra (15 marks)
+
+**F1.** Give the laṅ (past tense) form for each (5 marks):
+1. nam, 1st person singular (I bowed): ___
+2. pūj, 3rd person singular (he worshipped): ___
+3. rakṣ, 3rd person plural (they protected): ___
+4. bhū, 1st person singular (I became): ___
+5. gam, 2nd person singular (you went): ___
+
+**F2.** Translate into English (5 marks):
+1. bhaktaḥ devam apūjayat
+2. śivaḥ jagat arakṣat
+3. aham mandiram agaccham
+4. devāḥ arakṣan
+5. tvam mantram ajapāḥ (from √jap)
+
+**F3.** Rewrite each present-tense sentence in the past tense (5 marks):
+1. namāmi śivam → ___
+2. bhaktaḥ pūjayati → ___
+3. gacchāmi mandiram → ___
+4. devī rakṣati bhaktam → ___
+5. gāyāmaḥ stotram → ___
+
+---
+
+## Section G: Imperative & Optative (15 marks)
+
+**G1.** Give the loṭ (imperative) form for each (5 marks):
+1. rakṣ, 2nd person singular (protect!): ___
+2. gam, 2nd person singular (go!): ___
+3. pūj, 3rd person singular (let him worship): ___
+4. bhū, 3rd person plural (let them be): ___
+5. nam, 1st person singular (let me bow): ___
+
+**G2.** Write 3 commands or prayers using the imperative (6 marks):
+1. A prayer asking a deity to protect you: ___
+2. A command telling someone to recite a mantra: ___
+3. A wish that the gods bless everyone: ___
+
+**G3.** Give the vidhiliṅ (optative) form and translate (4 marks):
+1. pūj, 3rd person singular: ___ (meaning: ___)
+2. rakṣ, 1st person singular: ___ (meaning: ___)
+
+---
+
+## Section H: Composition (10 marks)
+
+**H1.** Describe what you did in yesterday's pūjā using the past tense. Write at least 4 sentences with 4 different verbs in laṅ-lakāra. (5 marks)
+
+1. ___
+2. ___
+3. ___
+4. ___
+
+**H2.** Write 3 commands or prayers using the imperative. Address a deity directly using the vocative and request protection, grace, or presence. (5 marks)
+
+1. ___
+2. ___
+3. ___
+
+---
+
+**Total: 100 marks**

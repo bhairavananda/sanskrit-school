@@ -92,6 +92,74 @@
 
 Examples: pātu (let him protect), gaccha (go!), karāṇi (let me do)
 
+## Parasmaipada Past Tense (Laṅ-lakāra) Endings
+
+| Person | Eka | Dvi | Bahu |
+|--------|-----|-----|------|
+| 3rd (prathama) | -at | -atām | -an |
+| 2nd (madhyama) | -aḥ | -atam | -ata |
+| 1st (uttama) | -am | -āva | -āma |
+
+Remember: prefix **a-** (the augment) to the verb stem.
+
+### Key Verbs in Laṅ (3rd sg. / 1st sg.)
+
+| Dhātu | 3rd sg. | 1st sg. | Meaning (past) |
+|-------|---------|---------|----------------|
+| bhū | abhavat | abhavam | became/was |
+| nam | anamat | anamam | bowed |
+| pūj | apūjayat | apūjayam | worshipped |
+| rakṣ | arakṣat | arakṣam | protected |
+| gam | agacchat | agaccham | went |
+| dā | adadāt | adadām | gave |
+| smṛ | asmarat | asmaram | remembered |
+| bhaj | abhajat | abhajam | adored |
+| gai | agāyat | agāyam | sang |
+| paṭh | apaṭhat | apaṭham | recited |
+| kṛ | akarot | akuravam | did/made |
+
+## Full Imperative (Loṭ-lakāra) Endings — Parasmaipada
+
+| Person | Eka | Dvi | Bahu |
+|--------|-----|-----|------|
+| 3rd (prathama) | -tu | -tām | -antu |
+| 2nd (madhyama) | -a / -hi | -tam | -ta |
+| 1st (uttama) | -āni | -āva | -āma |
+
+### Key Verbs in Loṭ (2nd sg. / 3rd sg.)
+
+| Dhātu | 2nd sg. | 3rd sg. | Devotional Use |
+|-------|---------|---------|----------------|
+| rakṣ | rakṣa | rakṣatu | rakṣa mām! (protect me!) |
+| gam | gaccha | gacchatu | āgaccha! (come!) |
+| pūj | pūjaya | pūjayatu | devam pūjaya (worship the deity!) |
+| nam | nama | namatu | namantu devāḥ (let the gods bow) |
+| bhū | bhava | bhavatu | maṅgalam bhavatu (may there be auspiciousness) |
+| kṛ | kuru | kurūtu | dhyānam kuru (do meditation!) |
+| pā | pāhi | pātu | pāhi mām (save me!) |
+| śru | śṛṇu | śṛṇotu | śṛṇu me (hear me!) |
+| dā | dehi | dadātu | dehi me varadam (give me a boon!) |
+
+## Optative (Vidhiliṅ-lakāra) Endings — Parasmaipada
+
+| Person | Eka | Dvi | Bahu |
+|--------|-----|-----|------|
+| 3rd | -et | -eyātām | -eyuḥ |
+| 2nd | -eḥ | -eyātam | -eta |
+| 1st | -eyam | -eva | -ema |
+
+### Key Verbs in Vidhiliṅ (3rd sg. / 1st sg.)
+
+| Dhātu | 3rd sg. | 1st sg. | Meaning |
+|-------|---------|---------|---------|
+| pūj | pūjayet | pūjayeyam | should worship |
+| rakṣ | rakṣet | rakṣeyam | should protect |
+| nam | namet | nameyam | should bow |
+| bhaj | bhajet | bhajeyam | should adore |
+| smṛ | smaret | smareyam | should remember |
+| bhū | bhavet | bhaveyam | should be |
+| kṛ | kuryāt | kuryām | should do |
+
 ## Common Verb Phrases for Pūjā
 
 | Sanskrit | Meaning |

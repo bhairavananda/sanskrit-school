@@ -124,3 +124,11 @@ When praying, you often need "me" — this is **mām** (माम्), the accus
 ## Milestone Check
 
 Can you compose a spontaneous 4-line prayer to your iṣṭadevatā using vocative + imperatives?
+
+### 🧱 New Bricks Learned
+
+| Brick Type | Examples | Snaps onto... |
+|------------|----------|---------------|
+| Vocative brick | he rāma!, he devi!, he śiva!, he guro!, he agne! | Any sentence — this brick "addresses" the listener directly; snaps onto imperative verbs (pāhi, dehi, rakṣa) and kāraka sentences from Stage 7 to turn statements into prayers |
+
+**Try snapping**: Take a full kāraka sentence from Stage 7 (e.g., "bhaktaḥ bhaktyā mandire devāya puṣpam dadāti"), replace the third-person kartā with "aham," swap the verb to first person, and snap a vocative brick onto the front — now it is a direct prayer instead of a description.

@@ -73,7 +73,7 @@ Learn one deity per baseplate and you can decline *any* noun of that type.
 
 ## The Build Sequence
 
-The 35 stages are ordered so that each stage gives you new bricks that snap onto everything you already have:
+The 36 stages are ordered so that each stage gives you new bricks that snap onto everything you already have:
 
 ### Phase 1: Collect the Bricks (Stages 1–7)
 
@@ -118,7 +118,7 @@ The 35 stages are ordered so that each stage gives you new bricks that snap onto
 | 24 | Rasa | Emotional aesthetics — builds that move people |
 | 25 | Darśana | Philosophy becomes poetry |
 
-### Phase 5: Build Under Pressure (Stages 26–35)
+### Phase 5: Build Under Pressure (Stages 26–36)
 
 The avadhāna challenges. Each stage adds a constraint — like building LEGO blindfolded, one-handed, while someone asks you questions:
 
@@ -132,7 +132,8 @@ The avadhāna challenges. Each stage adds a constraint — like building LEGO bl
 | 32 | Aprastuta-prasaṅga | Build while being interrupted with wit |
 | 33 | Multi-devatā | Switch builds mid-construction |
 | 34 | Aṣṭāvadhāna | All eight challenges simultaneously |
-| 35 | Avadhāna-Sevā | Mastery — you are the builder |
+| 35 | Sva-Avadhāna | Self-directed avadhāna — design your own challenges |
+| 36 | Avadhāna-Sevā | Mastery as Living Practice |
 
 ---
 

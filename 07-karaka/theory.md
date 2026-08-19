@@ -100,3 +100,11 @@ All mean the same thing. Choose the order that emphasizes what matters most (wha
 ## Milestone Check
 
 Can you build 5 complete devotional sentences, each with at least 3 kārakas?
+
+### 🧱 New Bricks Learned
+
+| Brick Type | Examples | Snaps onto... |
+|------------|----------|---------------|
+| Case-connector bricks | kartā→prathamā, karma→dvitīyā, karaṇa→tṛtīyā, sampradāna→caturthī, apādāna→pañcamī, adhikaraṇa→saptamī | Noun-bricks from Stages 1–2 (vibhakti endings) and verb-bricks; kārakas are the semantic glue that tells you *why* a noun has a particular ending |
+
+**Try snapping**: Take a verb-brick like "dadāti" and snap on as many case-connector bricks as you can — kartā (who gives?), karma (what?), sampradāna (to whom?), karaṇa (with what?), adhikaraṇa (where?) — building a full pūjā scene from one action.

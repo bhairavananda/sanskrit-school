@@ -1,12 +1,18 @@
-# Chapter 2: Sandhi
+# Stage 3: Sandhi — The Snap-Rules
+
+## Why This Matters
+
+Every mantra you chant, every stotra you recite, every śloka you read aloud — sandhi is already happening in your mouth. When you say "namaḥ śivāya," the visarga of namaḥ transforms before the ś. When you chant "sadāśiva," two words have fused into one. Sandhi is not abstract grammar — it is the physics of sacred sound, the rules your voice already follows when joining syllables in worship.
+
+Master these rules and you can **read any Sanskrit text on sight**, split compounds back into their components, and understand why mantras sound the way they do. Without sandhi, Sanskrit remains a collection of isolated words. With it, the words flow into living speech.
 
 ## Goal
 
-Understand and apply all 27 sandhi rules of Sanskrit grammar. Given any two words or morphemes, identify which sandhi applies, perform the combination, and split compound forms back into their components.
+Understand and apply the core sandhi rules of Sanskrit. Given any two words or morphemes, identify which sandhi applies, perform the combination, and split compound forms back into their components.
 
 ## What is Sandhi?
 
-**Sandhi** (सन्धि) means "joining" or "junction." It refers to the sound transformations that occur when two sounds come into extreme closeness (saṃhitā) during pronunciation. When letters at the boundary of words or morphemes meet, they undergo predictable changes governed by Pāṇini's rules.
+**Sandhi** (सन्धि) means "joining" or "junction." In the LEGO framework, these are the **snap-rules** — the laws governing what happens when two bricks click together. Just as LEGO bricks have studs and tubes that must align, Sanskrit sounds have contact rules that transform letters at the boundary. These changes are predictable, governed by Pāṇini's sūtras.
 
 ### Three Types of Sound Change (Kārya)
 
@@ -965,3 +971,15 @@ This combines rephādeśa with subsequent svara sandhis. When a rephānta word (
 - ḥ + kharaḥ (t,th,c,ch,ṭ,ṭh,ś,ṣ,s) → **s** (sakārādeśa, then further śchutva/ṣṭutva)
 - ḥ + ka/kha → **jihvāmūlīya** (optional) or remains ḥ
 - ḥ + pa/pha → **upadhmānīya** (optional) or remains ḥ
+
+---
+
+### 🧱 New Bricks Learned
+
+| Brick Type | Examples | Snaps onto... |
+|------------|----------|---------------|
+| Snap-rules (ac sandhi) | a+i→e, a+u→o, i+a→ya, u+a→va | Vowel-ending bricks (Stage 1 nouns) meeting vowel-starting bricks — these rules fire automatically at every junction |
+| Snap-rules (hal sandhi) | jaśtva, anusvāra, śchutva | Consonant-ending bricks meeting the next brick — transforms the contact point so the join is smooth |
+| Snap-rules (visarga sandhi) | aḥ+voiced→o, āḥ+voiced→ā | Visarga-ending bricks (namaḥ, devaḥ) meeting any following brick — the visarga adapts to its neighbor |
+
+**Try snapping**: Take the deity name and noun bricks from Stage 1, and the letter-knowledge from Stage 2. Now snap them together with sandhi: "namaḥ + śivāya" → "namaś śivāya" (visarga → ś before ś). Try "mahā + īśvara" → "maheśvara" (ā+ī → e, vṛddhi). Every mantra you know is bricks + snap-rules.

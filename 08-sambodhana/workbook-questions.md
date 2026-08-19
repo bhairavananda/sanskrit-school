@@ -101,4 +101,21 @@ Compose an original prayer of at least 6 lines to any deity. Include:
 
 ---
 
+---
+
+## Section F: Composition (Rachanā)
+
+Using everything learned through Stage 8, compose the following:
+
+Write a 4-line invocation addressing your iṣṭadevatā in the vocative, then describing their qualities, then making a request in the imperative.
+
+1. Line 1 — Vocative address with an epithet describing a quality: ___
+2. Line 2 — A description of the deity using adjective agreement (Stage 4) and at least one kāraka from Stage 7: ___
+3. Line 3 — A request using an imperative verb, with "mām" or "me" as object: ___
+4. Line 4 — A closing line of surrender or praise: ___
+
+Remember to apply sandhi rules from Stage 3 when vowels meet at word boundaries. Use correct vocative endings for masculine (-a→a), feminine (-ā→e, -ī→i), and other stems. Apply adjective-noun agreement from Stage 4 in your descriptive line. Use at least 2 different kāraka roles from Stage 7 across your lines.
+
+---
+
 **Total: 60 marks**

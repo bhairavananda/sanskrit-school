@@ -96,4 +96,44 @@ Pūjā item: ___
 
 ---
 
-**Total: 60 marks**
+## Section F: Pronoun & New Stem Practice (15 marks)
+
+**F1.** Decline "viṣṇu" (M, -u stem) in ekavacana, all 8 vibhaktis (8 marks):
+1. Prathamā: ___
+2. Dvitīyā: ___
+3. Tṛtīyā: ___
+4. Caturthī: ___
+5. Pañcamī: ___
+6. Ṣaṣṭhī: ___
+7. Saptamī: ___
+8. Sambodhana: ___
+
+**F2.** Give the correct pronoun form for each blank (4 marks):
+1. ___ devam namāmi (I [subject]) [asmad, prathamā eka]
+2. devī ___ rakṣati (me [object]) [asmad, dvitīyā eka]
+3. ___ pādau praṇamāmi ([his] feet) [tad M, ṣaṣṭhī eka]
+4. ___ namaḥ ([to her]) [tad F, caturthī eka]
+
+**F3.** Fill in the correct case form of "bhagavat" (3 marks):
+1. ___ kṛpā asti (the Lord's grace) [ṣaṣṭhī eka]
+2. he ___! prasīda (O Lord! be gracious) [sambodhana eka]
+3. ___ saha gacchāmi (I go with the Lord) [tṛtīyā eka]
+
+---
+
+## Section G: Composition (15 marks)
+
+**G1.** Write 3 sentences using pronouns (5 marks each = 15 marks):
+
+1. "I worship [deity]" — Use aham + a deity name in dvitīyā + a worship verb:
+___
+
+2. "She protects us" — Use sā + asmān + rakṣati:
+___
+
+3. "His lotus feet are sacred" — Use tasya + a noun phrase + an adjective:
+___
+
+---
+
+**Total: 90 marks**
