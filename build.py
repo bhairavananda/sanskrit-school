@@ -17,49 +17,57 @@ if os.path.exists(overview_path):
     with open(overview_path, "r") as f:
         stages.append({
             "id": "00-overview", "number": 0,
-            "title": "Overview", "subtitle": "From Beginner to Avadhani",
+            "title": "Overview", "subtitle": "Building Sanskrit Like LEGO",
             "files": {"overview": f.read()}, "tabs": ["overview"]
         })
 
 stage_meta = {
-    "01-nama": ("Nama", "Basic Vocabulary"),
-    "02-guna": ("Guna", "Adjectives"),
-    "03-rupa": ("Rupa", "Case / Number / Gender"),
-    "04-kriya": ("Kriya", "Verbs"),
-    "05-karaka": ("Karaka", "Semantic Relations"),
-    "06-sambodhana": ("Sambodhana", "Direct Address"),
-    "07-dhatu": ("Dhatu", "Roots & Upasargas"),
-    "08-paryaya": ("Paryaya", "Synonyms"),
-    "09-samasa": ("Samasa", "Compounds"),
-    "10-vakya": ("Vakya", "Free Composition"),
-    "11-bhava": ("Bhava", "Emotional Vocabulary"),
-    "12-stotra-i": ("Stotra I", "Accusative Constructions"),
-    "13-stotra-ii": ("Stotra II", "Varied Cases"),
-    "14-prarthana": ("Prarthana", "Requests & Imperatives"),
-    "15-katha": ("Katha", "Narration"),
-    "16-chandas-i": ("Chandas I", "Syllables"),
-    "17-chandas-ii": ("Chandas II", "Anustubh"),
-    "18-chandas-iii": ("Chandas III", "Multiple Meters"),
-    "19-paryaya-chandas": ("Paryaya-Chandas", "Lexical Flexibility"),
-    "20-alankara": ("Alankara", "Poetic Ornament"),
-    "21-rasa": ("Rasa", "Emotional Aesthetics"),
-    "22-darshana": ("Darshana", "Philosophical Expression"),
-    "23-samasyapurana": ("Samasyapurana", "Backwards Composition"),
-    "24-dattapadi": ("Dattapadi", "Forced Vocabulary"),
-    "25-nishiddhakshari": ("Nishiddhakshari", "Inhibition"),
-    "26-citra-kavya": ("Citra-kavya", "Stacked Constraints"),
-    "27-dharana-i": ("Dharana I", "Interrupted Memory"),
-    "28-dharana-ii": ("Dharana II", "Associative Retrieval"),
-    "29-aprastuta-prasanga": ("Aprastuta-prasanga", "Wit & Context Switching"),
-    "30-multi-devata": ("Multi-devata", "Rapid Semantic Switching"),
-    "31-ashtavadhana": ("Ashtavadhana", "Integrated Attention"),
-    "32-avadhana-seva": ("Avadhana-seva", "Mastery"),
+    "01-nama": ("Nāma", "Basic Vocabulary"),
+    "02-varna-vidya": ("Varṇa-Vidyā", "Letters, Sthāna-prayatna, Māheśvara Sūtras"),
+    "03-sandhi": ("Sandhi", "27 Snap-Rules for Joining Bricks"),
+    "04-guna": ("Guṇa", "Adjectives"),
+    "05-rupa": ("Rūpa", "Case / Number / Gender — The Baseplates"),
+    "06-kriya": ("Kriyā", "Verbs — The Action Bricks"),
+    "07-karaka": ("Kāraka", "Semantic Relations"),
+    "08-sambodhana": ("Sambodhana", "Direct Address"),
+    "09-dhatu": ("Dhātu", "Roots & Upasargas"),
+    "10-paryaya": ("Paryāya", "Synonyms & Epithets"),
+    "11-samasa": ("Samāsa", "Compounds — LEGO Technic"),
+    "12-vakya": ("Vākya", "Free Composition"),
+    "13-bhava": ("Bhāva", "Emotional Vocabulary"),
+    "14-stotra-i": ("Stotra I", "Accusative Constructions"),
+    "15-stotra-ii": ("Stotra II", "Varied Cases"),
+    "16-prarthana": ("Prārthanā", "Requests & Imperatives"),
+    "17-puja-vak": ("Pūjā-Vāk", "Saṅkalpa, Nyāsa, Dhyāna, Upacāra"),
+    "18-katha": ("Kathā", "Narration"),
+    "19-chandas-i": ("Chandas I", "Syllables & Meter"),
+    "20-svara-vidya": ("Svara-Vidyā", "Vedic Accent"),
+    "21-chandas-ii": ("Chandas II", "Anuṣṭubh"),
+    "22-chandas-iii": ("Chandas III", "Multiple Meters"),
+    "23-paryaya-chandas": ("Paryāya-Chandas", "Lexical Flexibility"),
+    "24-alankara": ("Alaṅkāra", "Poetic Ornament"),
+    "25-rasa": ("Rasa", "Emotional Aesthetics"),
+    "26-darshana": ("Darśana", "Philosophical Expression"),
+    "27-samasyapurana": ("Samasyāpūraṇa", "Backwards Composition"),
+    "28-dattapadi": ("Dattapadī", "Forced Vocabulary"),
+    "29-nishiddhakshari": ("Niṣiddhākṣarī", "Inhibition"),
+    "30-citra-kavya": ("Citra-kāvya", "Stacked Constraints"),
+    "31-dharana-i": ("Dhāraṇā I", "Interrupted Memory"),
+    "32-dharana-ii": ("Dhāraṇā II", "Associative Retrieval"),
+    "33-aprastuta-prasanga": ("Aprastuta-prasaṅga", "Wit & Context Switching"),
+    "34-multi-devata": ("Multi-devatā", "Rapid Semantic Switching"),
+    "35-ashtavadhana": ("Aṣṭāvadhāna", "Integrated Attention"),
+    "36-avadhana-seva": ("Avadhāna-sevā", "Mastery"),
 }
 
 file_labels = {
+    "bricks": "Bricks",
     "theory": "Theory", "reference": "Reference",
     "workbook-questions": "Questions", "workbook-answers": "Answers",
+    "badge": "Badge",
 }
+
+tab_order = ["bricks", "theory", "reference", "workbook-questions", "workbook-answers", "badge"]
 
 for dirname, (title, subtitle) in stage_meta.items():
     stage_dir = os.path.join(SCHOOL_DIR, dirname)
@@ -68,7 +76,7 @@ for dirname, (title, subtitle) in stage_meta.items():
     num = int(dirname.split("-")[0])
     files = {}
     tabs = []
-    for fname in ["theory", "reference", "workbook-questions", "workbook-answers"]:
+    for fname in tab_order:
         fpath = os.path.join(stage_dir, f"{fname}.md")
         if os.path.exists(fpath):
             with open(fpath, "r") as f:
@@ -87,7 +95,7 @@ vocab_categories = []
 if os.path.isdir(vocab_dir):
     vocab_meta = {
         "00-index": ("Index", "Source texts & overview"),
-        "01-goddess-names": ("Goddess Names", "Names, epithets, forms of Devi"),
+        "01-goddess-names": ("Goddess Names", "Names, epithets, forms of Devī"),
         "02-god-names": ("God Names", "Male deities, sages, celestials"),
         "03-demons": ("Demons", "Asuras, demon vocabulary"),
         "04-weapons": ("Weapons", "Weapons, instruments, battle gear"),
@@ -99,14 +107,15 @@ if os.path.isdir(vocab_dir):
         "10-verbs": ("Verbs", "High-frequency action verbs"),
         "11-adjectives": ("Adjectives", "Power, beauty, size, intensity"),
         "12-ritual": ("Ritual", "Worship, offering, mantra"),
-        "13-philosophy": ("Philosophy", "Metaphysics, tattvas, moksa"),
+        "13-philosophy": ("Philosophy", "Metaphysics, tattvas, mokṣa"),
         "14-animals": ("Animals", "Animals, vehicles, mounts"),
         "15-indeclinables": ("Indeclinables", "Particles, conjunctions, adverbs"),
-        "16-prefixes-suffixes": ("Prefixes & Suffixes", "Upasargas, taddhita, krt"),
-        "17-compounds": ("Compounds", "Key samasas broken down"),
+        "16-prefixes-suffixes": ("Prefixes & Suffixes", "Upasargas, taddhita, kṛt"),
+        "17-compounds": ("Compounds", "Key samāsas broken down"),
         "18-formulae": ("Formulae", "Recurring phrases, refrains"),
         "19-numbers-time-space": ("Numbers & Time", "Numbers, time, directions"),
-        "20-sacred-geography": ("Sacred Geography", "Places, tirthas, plants"),
+        "20-sacred-geography": ("Sacred Geography", "Places, tīrthas, plants"),
+        "21-deity-vibhakti": ("Deity Vibhakti", "Eight baseplates — full declension tables"),
     }
     for fname in sorted(os.listdir(vocab_dir)):
         if not fname.endswith(".md"):
@@ -116,8 +125,6 @@ if os.path.isdir(vocab_dir):
         fpath = os.path.join(vocab_dir, fname)
         with open(fpath, "r") as f:
             content = f.read()
-        # Extract flashcard pairs from markdown tables
-        # Look for rows like: | term | meaning | ... |
         cards = []
         for line in content.split("\n"):
             line = line.strip()
@@ -127,7 +134,6 @@ if os.path.isdir(vocab_dir):
             if len(cols) >= 2:
                 term = cols[0]
                 meaning = cols[1]
-                # Skip header rows
                 if term.lower() in ("term", "root", "phrase", "file", "abbreviation",
                                      "prefix", "suffix", "pattern", "number", "type",
                                      "compound", "element", "#", ""):
@@ -135,7 +141,6 @@ if os.path.isdir(vocab_dir):
                 if meaning.lower() in ("meaning", "function", "category", "text",
                                         "tradition", "entries", ""):
                     continue
-                # Clean markdown formatting
                 term = re.sub(r'\*\*(.+?)\*\*', r'\1', term)
                 meaning = re.sub(r'\*\*(.+?)\*\*', r'\1', meaning)
                 if term and meaning and len(term) < 100:
@@ -377,13 +382,11 @@ body {
   padding: 40px 48px 80px;
 }
 
-/* Table horizontal scroll */
 .content .table-wrap {
   overflow-x: auto;
   margin: 16px 0;
 }
 
-/* Bottom nav */
 .bottom-nav {
   display: flex;
   justify-content: space-between;
@@ -420,7 +423,6 @@ body {
 
 .nav-btn .nav-title { color: var(--accent); }
 
-/* Progress bar under tab-bar */
 .progress-bar {
   height: 2px;
   background: var(--border);
@@ -458,139 +460,30 @@ body {
 .content a:hover { text-decoration: underline; }
 
 /* ── Flashcard ── */
-.flashcard-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 40px 20px;
-  max-width: 600px;
-}
-
-.fc-progress {
-  font-size: 13px;
-  color: var(--text-muted);
-  font-family: 'Menlo', monospace;
-  margin-bottom: 8px;
-}
-
-.fc-bar {
-  width: 100%;
-  height: 4px;
-  background: var(--border);
-  border-radius: 2px;
-  margin-bottom: 32px;
-  overflow: hidden;
-}
-
-.fc-bar-fill {
-  height: 100%;
-  background: var(--accent);
-  border-radius: 2px;
-  transition: width 0.3s;
-}
-
-.fc-card {
-  width: 100%;
-  min-height: 220px;
-  background: var(--bg-card);
-  border: 1px solid var(--border);
-  border-radius: 12px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  padding: 40px 32px;
-  cursor: pointer;
-  user-select: none;
-  transition: border-color 0.2s;
-  position: relative;
-}
-
+.flashcard-container { display: flex; flex-direction: column; align-items: center; padding: 40px 20px; max-width: 600px; }
+.fc-progress { font-size: 13px; color: var(--text-muted); font-family: 'Menlo', monospace; margin-bottom: 8px; }
+.fc-bar { width: 100%; height: 4px; background: var(--border); border-radius: 2px; margin-bottom: 32px; overflow: hidden; }
+.fc-bar-fill { height: 100%; background: var(--accent); border-radius: 2px; transition: width 0.3s; }
+.fc-card { width: 100%; min-height: 220px; background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 40px 32px; cursor: pointer; user-select: none; transition: border-color 0.2s; position: relative; }
 .fc-card:hover { border-color: var(--accent); }
-
-.fc-term {
-  font-size: 32px;
-  color: var(--accent);
-  text-align: center;
-  line-height: 1.4;
-}
-
-.fc-hint {
-  font-size: 12px;
-  color: var(--text-dim);
-  margin-top: 16px;
-  font-family: 'Menlo', monospace;
-}
-
-.fc-meaning {
-  font-size: 20px;
-  color: var(--text);
-  text-align: center;
-  margin-top: 20px;
-  line-height: 1.5;
-  padding-top: 20px;
-  border-top: 1px solid var(--border);
-  width: 100%;
-}
-
-.fc-buttons {
-  display: flex;
-  gap: 16px;
-  margin-top: 32px;
-  width: 100%;
-}
-
-.fc-btn {
-  flex: 1;
-  padding: 14px 24px;
-  border-radius: 8px;
-  border: 1px solid var(--border);
-  background: var(--bg-card);
-  color: var(--text);
-  font-size: 14px;
-  font-family: 'Georgia', serif;
-  cursor: pointer;
-  transition: all 0.15s;
-  text-align: center;
-}
-
+.fc-term { font-size: 32px; color: var(--accent); text-align: center; line-height: 1.4; }
+.fc-hint { font-size: 12px; color: var(--text-dim); margin-top: 16px; font-family: 'Menlo', monospace; }
+.fc-meaning { font-size: 20px; color: var(--text); text-align: center; margin-top: 20px; line-height: 1.5; padding-top: 20px; border-top: 1px solid var(--border); width: 100%; }
+.fc-buttons { display: flex; gap: 16px; margin-top: 32px; width: 100%; }
+.fc-btn { flex: 1; padding: 14px 24px; border-radius: 8px; border: 1px solid var(--border); background: var(--bg-card); color: var(--text); font-size: 14px; font-family: 'Georgia', serif; cursor: pointer; transition: all 0.15s; text-align: center; }
 .fc-btn:hover { border-color: var(--accent); }
 .fc-btn.again { border-color: var(--red); color: var(--red); }
 .fc-btn.again:hover { background: var(--red); color: white; }
 .fc-btn.good { border-color: var(--green); color: var(--green); }
 .fc-btn.good:hover { background: var(--green); color: white; }
-
-.fc-score {
-  display: flex;
-  gap: 24px;
-  margin-top: 20px;
-  font-size: 13px;
-  font-family: 'Menlo', monospace;
-}
-
+.fc-score { display: flex; gap: 24px; margin-top: 20px; font-size: 13px; font-family: 'Menlo', monospace; }
 .fc-score span { color: var(--text-dim); }
 .fc-score .g { color: var(--green); }
 .fc-score .r { color: var(--red); }
-
-.fc-done {
-  text-align: center;
-  padding: 60px 20px;
-}
-
+.fc-done { text-align: center; padding: 60px 20px; }
 .fc-done h2 { color: var(--accent); font-weight: normal; margin-bottom: 16px; }
 .fc-done p { color: var(--text-muted); margin-bottom: 24px; }
-
-.fc-restart {
-  padding: 12px 32px;
-  background: var(--accent);
-  color: var(--bg);
-  border: none;
-  border-radius: 8px;
-  font-size: 14px;
-  font-family: 'Georgia', serif;
-  cursor: pointer;
-}
-
+.fc-restart { padding: 12px 32px; background: var(--accent); color: var(--bg); border: none; border-radius: 8px; font-size: 14px; font-family: 'Georgia', serif; cursor: pointer; }
 .fc-restart:hover { opacity: 0.9; }
 
 /* ── Mobile ── */
@@ -632,7 +525,7 @@ body {
 <nav class="sidebar" id="sidebar">
   <div class="sidebar-header">
     <h1>tantrikk sanskrit</h1>
-    <p>Beginner to Avadhani &middot; 32 Stages + Vocab</p>
+    <p>Building Sanskrit Like LEGO &middot; 36 Stages + Vocab</p>
   </div>
   <div class="section-toggle">
     <div class="section-btn active" onclick="showSection('lessons')">Lessons</div>
@@ -660,13 +553,12 @@ const FILE_LABELS = """ + json.dumps(file_labels) + """;
 const VOCAB = """ + json.dumps(vocab_categories, ensure_ascii=False) + """;
 
 const PHASES = [
-  { after: 0, label: "Foundation" },
-  { after: 6, label: "Roots & Building" },
-  { after: 10, label: "Devotional Composition" },
-  { after: 15, label: "Poetic Craft" },
-  { after: 22, label: "Constraint Mastery" },
-  { after: 26, label: "Avadhana Training" },
-  { after: 30, label: "Avadhana" },
+  { after: 0, label: "Collect the Bricks" },
+  { after: 8, label: "Learn to Build" },
+  { after: 13, label: "Devotional Structures" },
+  { after: 20, label: "Poetic Craft" },
+  { after: 26, label: "Build Under Pressure" },
+  { after: 34, label: "Avadhana" },
 ];
 
 let currentSection = 'lessons';
@@ -801,9 +693,7 @@ function selectTab(tab) {
 function renderContent(md) {
   const el = document.getElementById('content');
   let html = marked.parse(md);
-  // Wrap tables for horizontal scroll
-  html = html.replace(/<table>/g, '<div class="table-wrap"><table>').replace(/<\/table>/g, '<\/table><\/div>');
-  // Add bottom nav for lessons
+  html = html.replace(/<table>/g, '<div class="table-wrap"><table>').replace(/<\/table>/g, '</table></div>');
   if (currentSection === 'lessons' && currentStage !== null) {
     html += buildBottomNav();
   }
@@ -818,7 +708,6 @@ function buildBottomNav() {
   const tabIdx = tabs.indexOf(currentTab);
   let h = '<div class="bottom-nav">';
 
-  // Prev: previous tab, or previous stage last tab
   if (tabIdx > 0) {
     const prevTab = tabs[tabIdx - 1];
     h += '<div class="nav-btn" onclick="selectTab(&quot;' + prevTab + '&quot;)"><span class="nav-label">Previous</span><span class="nav-title">' + (FILE_LABELS[prevTab] || prevTab) + '</span></div>';
@@ -829,7 +718,6 @@ function buildBottomNav() {
     h += '<div class="nav-btn disabled"></div>';
   }
 
-  // Next: next tab, or next stage first tab
   if (tabIdx < tabs.length - 1) {
     const nextTab = tabs[tabIdx + 1];
     h += '<div class="nav-btn" onclick="selectTab(&quot;' + nextTab + '&quot;)"><span class="nav-label">Next</span><span class="nav-title">' + (FILE_LABELS[nextTab] || nextTab) + '</span></div>';
@@ -850,7 +738,6 @@ function updateProgress() {
     const stage = STAGES[currentStage];
     const tabs = stage.tabs || [];
     const tabIdx = Math.max(0, tabs.indexOf(currentTab));
-    // Progress = stage position + tab fraction within stage
     const stageProgress = (currentStage / STAGES.length);
     const tabProgress = tabs.length > 1 ? (tabIdx / (tabs.length - 1)) / STAGES.length : 0;
     fill.style.width = Math.round((stageProgress + tabProgress) * 100) + '%';
@@ -957,7 +844,6 @@ function fcAnswer(good) {
   } else {
     fcAgain++;
     fcMissed.push(fcCards[fcIdx]);
-    // Re-queue missed card ~5 cards later
     const reinsert = Math.min(fcIdx + 3 + Math.floor(Math.random() * 4), fcCards.length);
     fcCards.splice(reinsert, 0, fcCards[fcIdx]);
   }
@@ -1010,11 +896,11 @@ document.addEventListener('keydown', (e) => {
     return;
   }
 
-  // Tab shortcuts: 1-4 for lesson tabs
+  // Tab shortcuts: 1-6 for lesson tabs
   if (currentSection === 'lessons' && currentStage !== null && currentStage > 0) {
     const stage = STAGES[currentStage];
     const tabNum = parseInt(e.key);
-    if (tabNum >= 1 && tabNum <= 4 && stage.tabs[tabNum - 1]) {
+    if (tabNum >= 1 && tabNum <= 6 && stage.tabs[tabNum - 1]) {
       selectTab(stage.tabs[tabNum - 1]);
       return;
     }
