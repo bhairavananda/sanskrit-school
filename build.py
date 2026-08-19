@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build a single-page web UI for tantrikk sanskrit from all markdown files."""
+"""Build a single-page web UI for sanskrit school from all markdown files."""
 
 import os
 import json
@@ -157,7 +157,7 @@ html = r"""<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>tantrikk sanskrit</title>
+<title>sanskrit school</title>
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 <style>
 :root {
@@ -524,7 +524,7 @@ body {
 
 <nav class="sidebar" id="sidebar">
   <div class="sidebar-header">
-    <h1>tantrikk sanskrit</h1>
+    <h1>sanskrit school</h1>
     <p>Building Sanskrit Like LEGO &middot; 36 Stages + Vocab</p>
   </div>
   <div class="section-toggle">
