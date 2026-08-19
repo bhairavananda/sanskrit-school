@@ -79,6 +79,125 @@ Note: Neuter prathamā and dvitīyā are always identical.
 | Ṣaṣṭhī | nadyāḥ | nadyoḥ | nadīnām |
 | Saptamī | nadyām | nadyoḥ | nadīṣu |
 
+## Model Paradigm: Masculine -u stem (viṣṇu)
+
+| Vibhakti | Eka | Dvi | Bahu |
+|----------|-----|-----|------|
+| Prathamā | viṣṇuḥ | viṣṇū | viṣṇavaḥ |
+| Dvitīyā | viṣṇum | viṣṇū | viṣṇūn |
+| Tṛtīyā | viṣṇunā | viṣṇubhyām | viṣṇubhiḥ |
+| Caturthī | viṣṇave | viṣṇubhyām | viṣṇubhyaḥ |
+| Pañcamī | viṣṇoḥ | viṣṇubhyām | viṣṇubhyaḥ |
+| Ṣaṣṭhī | viṣṇoḥ | viṣṇvoḥ | viṣṇūnām |
+| Saptamī | viṣṇau | viṣṇvoḥ | viṣṇuṣu |
+| Sambodhana | he viṣṇo! | he viṣṇū! | he viṣṇavaḥ! |
+
+Other -u stem masculines: guru, śambhu, bhānu, sādhu.
+
+## Model Paradigm: Ṛ-stem (mātṛ — mother)
+
+| Vibhakti | Eka | Dvi | Bahu |
+|----------|-----|-----|------|
+| Prathamā | mātā | mātarau | mātaraḥ |
+| Dvitīyā | mātaram | mātarau | mātṝn |
+| Tṛtīyā | mātrā | mātṛbhyām | mātṛbhiḥ |
+| Caturthī | mātre | mātṛbhyām | mātṛbhyaḥ |
+| Pañcamī | mātuḥ | mātṛbhyām | mātṛbhyaḥ |
+| Ṣaṣṭhī | mātuḥ | mātroḥ | mātṝṇām |
+| Saptamī | mātari | mātroḥ | mātṛṣu |
+| Sambodhana | he mātaḥ! | he mātarau! | he mātaraḥ! |
+
+Other ṛ-stem nouns: pitṛ (father), bhrātṛ (brother), kartṛ (doer), dātṛ (giver).
+
+Note: The ṛ-stem is critical for understanding agent nouns and kinship terms, both frequent in devotional contexts (e.g., jagat-kartā — creator of the world).
+
+## Model Paradigm: Consonant stem -at (bhagavat — the Lord)
+
+| Vibhakti | Eka | Dvi | Bahu |
+|----------|-----|-----|------|
+| Prathamā | bhagavān | bhagavantau | bhagavantaḥ |
+| Dvitīyā | bhagavantam | bhagavantau | bhagavataḥ |
+| Tṛtīyā | bhagavatā | bhagavadbhyām | bhagavadbhiḥ |
+| Caturthī | bhagavate | bhagavadbhyām | bhagavadbhyaḥ |
+| Pañcamī | bhagavataḥ | bhagavadbhyām | bhagavadbhyaḥ |
+| Ṣaṣṭhī | bhagavataḥ | bhagavatoḥ | bhagavatām |
+| Saptamī | bhagavati | bhagavatoḥ | bhagavatsu |
+| Sambodhana | he bhagavan! | he bhagavantau! | he bhagavantaḥ! |
+
+Other -at stem nouns: mahat (great), dhīmat (wise), śrīmat (glorious). These consonant stems appear constantly in stotras and sacred titles.
+
+## Sarvānāma — Pronoun Baseplates
+
+Pronouns (sarvānāma) are among the most essential words in Sanskrit. They replace noun baseplates entirely with their own unique declension patterns.
+
+### First Person (asmad — I/we)
+
+| Vibhakti | Eka | Dvi | Bahu |
+|----------|-----|-----|------|
+| Prathamā | aham | āvām | vayam |
+| Dvitīyā | mām (mā) | āvām (nau) | asmān (naḥ) |
+| Tṛtīyā | mayā | āvābhyām | asmābhiḥ |
+| Caturthī | mahyam (me) | āvābhyām (nau) | asmabhyam (naḥ) |
+| Pañcamī | mat | āvābhyām | asmat |
+| Ṣaṣṭhī | mama (me) | āvayoḥ (nau) | asmākam (naḥ) |
+| Saptamī | mayi | āvayoḥ | asmāsu |
+
+Parenthetical forms (mā, me, nau, naḥ) are enclitic (shortened) forms used in everyday speech and poetry.
+
+### Second Person (yuṣmad — you)
+
+| Vibhakti | Eka | Dvi | Bahu |
+|----------|-----|-----|------|
+| Prathamā | tvam | yuvām | yūyam |
+| Dvitīyā | tvām (tvā) | yuvām (vām) | yuṣmān (vaḥ) |
+| Tṛtīyā | tvayā | yuvābhyām | yuṣmābhiḥ |
+| Caturthī | tubhyam (te) | yuvābhyām (vām) | yuṣmabhyam (vaḥ) |
+| Pañcamī | tvat | yuvābhyām | yuṣmat |
+| Ṣaṣṭhī | tava (te) | yuvayoḥ (vām) | yuṣmākam (vaḥ) |
+| Saptamī | tvayi | yuvayoḥ | yuṣmāsu |
+
+### Third Person (tad — he/she/it)
+
+**Masculine (saḥ):**
+
+| Vibhakti | Eka | Dvi | Bahu |
+|----------|-----|-----|------|
+| Prathamā | saḥ | tau | te |
+| Dvitīyā | tam | tau | tān |
+| Tṛtīyā | tena | tābhyām | taiḥ |
+| Caturthī | tasmai | tābhyām | tebhyaḥ |
+| Pañcamī | tasmāt | tābhyām | tebhyaḥ |
+| Ṣaṣṭhī | tasya | tayoḥ | teṣām |
+| Saptamī | tasmin | tayoḥ | teṣu |
+
+**Feminine (sā):**
+
+| Vibhakti | Eka | Dvi | Bahu |
+|----------|-----|-----|------|
+| Prathamā | sā | te | tāḥ |
+| Dvitīyā | tām | te | tāḥ |
+| Tṛtīyā | tayā | tābhyām | tābhiḥ |
+| Caturthī | tasyai | tābhyām | tābhyaḥ |
+| Pañcamī | tasyāḥ | tābhyām | tābhyaḥ |
+| Ṣaṣṭhī | tasyāḥ | tayoḥ | tāsām |
+| Saptamī | tasyām | tayoḥ | tāsu |
+
+**Neuter (tat):**
+
+| Vibhakti | Eka | Dvi | Bahu |
+|----------|-----|-----|------|
+| Prathamā | tat | te | tāni |
+| Dvitīyā | tat | te | tāni |
+| Tṛtīyā–Saptamī | same as masculine | | |
+
+**Devotional examples with pronouns:**
+- aham devam namāmi — I bow to the deity
+- sā mām rakṣati — she protects me
+- tasya pādau praṇamāmi — I bow to his feet
+- tasyai namaḥ — salutation to her
+- mama prārthanām śṛṇu — hear my prayer
+- tvam eva mātā ca pitā tvam eva — you alone are mother and you alone are father
+
 ## Devotional Context: "Transform the Deity"
 
 See how a single name changes across cases:
@@ -106,3 +225,20 @@ All three mean: "I give a flower to Śiva."
 ## Milestone Check
 
 Can you decline śiva, puṣpa, mālā, and nadī through all 8 cases in singular from memory?
+
+Can you also decline viṣṇu, mātṛ, and bhagavat? Can you use aham, tvam, and saḥ/sā in simple devotional sentences?
+
+---
+
+### 🧱 New Bricks Learned
+
+| Brick Type | Examples | Snaps onto... |
+|------------|----------|---------------|
+| -a stem baseplate (M/N) | deva, phala | All 8 case endings; the foundation brick |
+| -ā / -ī stem baseplate (F) | mālā, nadī | Feminine case endings |
+| -u stem baseplate (M) | viṣṇu, guru | -u class case endings |
+| Ṛ-stem baseplate | mātṛ, pitṛ | Kinship/agent case endings |
+| Consonant-stem baseplate (-at) | bhagavat, mahat | -at class endings; titles and adjective-nouns |
+| Pronoun bricks (1st/2nd/3rd) | aham/mām/mama, tvam, saḥ/sā/tat | Replace noun baseplates entirely; unique declension |
+
+**Try snapping**: Combine a pronoun brick with a verb brick from Stage 4: "aham devam namāmi" (I bow to the deity). Now swap the pronoun: "saḥ devam namati" (he bows to the deity). Now swap the noun baseplate to ṛ-stem: "aham mātaram namāmi" (I bow to the mother).

@@ -118,3 +118,12 @@ These suffixes attach to dhātus to create new words:
 ## Milestone Check
 
 Given a word like "anugraha," can you identify the root (√grah) and prefix (anu-), and explain how the meaning shifts? Can you see the semantic architecture in at least 10 sacred words?
+
+### 🧱 New Bricks Learned
+
+| Brick Type | Examples | Snaps onto... |
+|------------|----------|---------------|
+| Root bricks | √kṛ (do), √bhū (be), √gam (go), √dā (give), √nam (bow), √bhaj (serve) | Everything — roots are the atomic meaning-units from which verbs, nouns, and adjectives all grow; every verb-brick you have used since Stage 1 is a root brick in disguise |
+| Prefix bricks (upasarga) | pra- (forth), ā- (toward), sam- (together), vi- (apart), anu- (after), upa- (near) | Snap onto root bricks to shift meaning: pra+√nam = praṇam (bow forth), ā+√gam = āgam (come toward), sam+√gam = saṃgam (come together) |
+
+**Try snapping**: Pick a single root brick like √hṛ (to take) and snap on four different prefix bricks — anu+hṛ (anugraha, grace), vi+hṛ (vihāra, sport), pra+hṛ (prahāra, strike), sam+hṛ (saṃhāra, destruction) — then use each derived word in a devotional sentence with kāraka connectors from Stage 7.

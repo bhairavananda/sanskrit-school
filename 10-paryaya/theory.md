@@ -102,3 +102,11 @@ Given a deity, generate epithets by combining:
 ## Milestone Check
 
 Can you explain the etymology of at least 10 divine epithets and generate 5 new grammatically valid ones?
+
+### 🧱 New Bricks Learned
+
+| Brick Type | Examples | Snaps onto... |
+|------------|----------|---------------|
+| Synonym bricks | padma/kamala/aravinda (lotus), sūrya/bhāskara/ravi (sun), jala/vāri/nīra (water), candra/śaśin/indu (moon) | Any noun-slot in your sentences — these are interchangeable bricks of the same shape and meaning, letting you swap for metrical fit or poetic variety without changing the structure |
+
+**Try snapping**: Rewrite a devotional sentence from Stage 7 three times, each time replacing a key noun with a different synonym brick — e.g., "bhaktaḥ **padmam** arpayati" → "bhaktaḥ **kamalam** arpayati" → "bhaktaḥ **aravindam** arpayati" — and notice how the rhythm changes while the meaning stays the same.

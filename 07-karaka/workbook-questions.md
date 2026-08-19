@@ -112,4 +112,25 @@ Sentence: ___
 
 ---
 
+---
+
+## Section E: Composition (Rachanā)
+
+Using everything learned through Stage 7, compose the following:
+
+Write 3 sentences about a pūjā scene using at least 4 different kārakas each. Example structure: [Who] [does what] [to whom] [with what] [where] [for what purpose].
+
+1. Sentence: ___
+   Label each kāraka: kartā = ___, karma = ___, karaṇa = ___, sampradāna = ___, adhikaraṇa = ___
+
+2. Sentence: ___
+   Label each kāraka: kartā = ___, karma = ___, karaṇa = ___, sampradāna = ___, adhikaraṇa = ___
+
+3. Sentence: ___
+   Label each kāraka: kartā = ___, karma = ___, karaṇa = ___, sampradāna = ___, adhikaraṇa = ___
+
+Remember to apply sandhi rules from Stage 3 at word boundaries. Use adjective agreement from Stage 4 when describing the nouns (e.g., "sundaram puṣpam," "śuddham jalam"). Incorporate number forms from Stage 5 if offering multiple items (e.g., "pañca puṣpāṇi"). Use vibhakti endings from Stage 6 correctly for each kāraka role.
+
+---
+
 **Total: 60 marks**

@@ -79,6 +79,72 @@
 | 6 | -oḥ | -voḥ | -ūnām |
 | 7 | -au | -voḥ | -uṣu |
 
+### Ṛ-stem (mātṛ, pitṛ, kartṛ)
+| Vib. | Eka | Dvi | Bahu |
+|------|-----|-----|------|
+| 1 | -ā | -arau | -araḥ |
+| 2 | -aram | -arau | -ṝn |
+| 3 | -rā | -ṛbhyām | -ṛbhiḥ |
+| 4 | -re | -ṛbhyām | -ṛbhyaḥ |
+| 5 | -uḥ | -ṛbhyām | -ṛbhyaḥ |
+| 6 | -uḥ | -roḥ | -ṝṇām |
+| 7 | -ari | -roḥ | -ṛṣu |
+
+### Consonant-stem -at (bhagavat, mahat)
+| Vib. | Eka | Dvi | Bahu |
+|------|-----|-----|------|
+| 1 | -ān | -antau | -antaḥ |
+| 2 | -antam | -antau | -ataḥ |
+| 3 | -atā | -adbhyām | -adbhiḥ |
+| 4 | -ate | -adbhyām | -adbhyaḥ |
+| 5 | -ataḥ | -adbhyām | -adbhyaḥ |
+| 6 | -ataḥ | -atoḥ | -atām |
+| 7 | -ati | -atoḥ | -atsu |
+
+### Pronoun: asmad (1st person)
+| Vib. | Eka | Dvi | Bahu |
+|------|-----|-----|------|
+| 1 | aham | āvām | vayam |
+| 2 | mām | āvām | asmān |
+| 3 | mayā | āvābhyām | asmābhiḥ |
+| 4 | mahyam | āvābhyām | asmabhyam |
+| 5 | mat | āvābhyām | asmat |
+| 6 | mama | āvayoḥ | asmākam |
+| 7 | mayi | āvayoḥ | asmāsu |
+
+### Pronoun: yuṣmad (2nd person)
+| Vib. | Eka | Dvi | Bahu |
+|------|-----|-----|------|
+| 1 | tvam | yuvām | yūyam |
+| 2 | tvām | yuvām | yuṣmān |
+| 3 | tvayā | yuvābhyām | yuṣmābhiḥ |
+| 4 | tubhyam | yuvābhyām | yuṣmabhyam |
+| 5 | tvat | yuvābhyām | yuṣmat |
+| 6 | tava | yuvayoḥ | yuṣmākam |
+| 7 | tvayi | yuvayoḥ | yuṣmāsu |
+
+### Pronoun: tad (3rd person, masculine)
+| Vib. | Eka | Dvi | Bahu |
+|------|-----|-----|------|
+| 1 | saḥ | tau | te |
+| 2 | tam | tau | tān |
+| 3 | tena | tābhyām | taiḥ |
+| 4 | tasmai | tābhyām | tebhyaḥ |
+| 5 | tasmāt | tābhyām | tebhyaḥ |
+| 6 | tasya | tayoḥ | teṣām |
+| 7 | tasmin | tayoḥ | teṣu |
+
+### Pronoun: tad (3rd person, feminine)
+| Vib. | Eka | Dvi | Bahu |
+|------|-----|-----|------|
+| 1 | sā | te | tāḥ |
+| 2 | tām | te | tāḥ |
+| 3 | tayā | tābhyām | tābhiḥ |
+| 4 | tasyai | tābhyām | tābhyaḥ |
+| 5 | tasyāḥ | tābhyām | tābhyaḥ |
+| 6 | tasyāḥ | tayoḥ | tāsām |
+| 7 | tasyām | tayoḥ | tāsu |
+
 ## Devotional Declension Examples
 
 ### śiva (M, -a stem)

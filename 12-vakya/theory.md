@@ -122,3 +122,11 @@ Speak to your iṣṭadevatā about your day in simple Sanskrit:
 ## Milestone Check
 
 Can you speak for 2 minutes in simple Sanskrit about your day, your surroundings, or your devotional practice — without pausing to translate from English?
+
+### 🧱 New Bricks Learned
+
+| Brick Type | Examples | Snaps onto... |
+|------------|----------|---------------|
+| Sentence blueprints | S+V (ahaṃ paṭhāmi), S+O+V (ahaṃ pustakam paṭhāmi), S+Instr+Loc+O+V (ahaṃ bhaktyā mandire stotram gāyāmi), yaḥ...saḥ (relative clause) | Everything from all prior stages — these are the complete assembly instructions, the LEGO instruction manual that tells you how to arrange noun-bricks (Stages 1–2), sandhi-joined forms (Stage 3), adjective-bricks (Stage 4), number-bricks (Stage 5), case-connectors (Stage 7), vocative bricks (Stage 8), root-derived verbs (Stage 9), synonym variants (Stage 10), and compound mega-bricks (Stage 11) into finished utterances |
+
+**Try snapping**: Build a 5-sentence paragraph about your morning pūjā using every brick type learned so far — a compound mega-brick (Stage 11) as an epithet, a vocative brick (Stage 8) to address the deity, synonym bricks (Stage 10) for variety, kāraka connectors (Stage 7) for each noun's role, root-derived vocabulary (Stage 9), and proper sandhi (Stage 3) at every junction.

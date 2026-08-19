@@ -90,4 +90,36 @@
 
 ---
 
+---
+
+## Section E: Composition (Rachanā)
+
+Using everything learned through Stage 9, compose the following:
+
+Take 5 dhātus and show how adding different upasargas changes meaning. Then use each derived verb in a devotional sentence.
+
+1. √gam:
+   - upasarga + root = ___ (meaning: ___)
+   - Sentence: ___
+
+2. √kṛ:
+   - upasarga + root = ___ (meaning: ___)
+   - Sentence: ___
+
+3. √nam:
+   - upasarga + root = ___ (meaning: ___)
+   - Sentence: ___
+
+4. √hṛ:
+   - upasarga + root = ___ (meaning: ___)
+   - Sentence: ___
+
+5. √dā:
+   - upasarga + root = ___ (meaning: ___)
+   - Sentence: ___
+
+In each sentence, remember to apply sandhi rules from Stage 3 at word junctions. Use adjective agreement from Stage 4 to describe nouns. Include at least 3 kārakas from Stage 7 per sentence (kartā, karma, karaṇa, etc.). Address the deity using vocative forms from Stage 8 in at least 2 of your sentences.
+
+---
+
 **Total: 60 marks**
