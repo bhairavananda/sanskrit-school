@@ -1,4 +1,4 @@
-# tantrikk sanskrit
+# sanskrit school
 
 A 35-stage syllabus integrating Sanskrit language acquisition with bhakti expression, mantric science, Vedic recitation, and classical poetic composition — culminating in Aṣṭāvadhāna competence.
 
