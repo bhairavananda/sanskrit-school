@@ -136,4 +136,115 @@ ___
 
 ---
 
-**Total: 90 marks**
+## Section H: Stem Identification (10 marks)
+
+**H1.** For each inflected form below, identify the **stem** (dictionary form) and its **stem type** (e.g., "-a masculine," "-ī feminine," "-u masculine") (10 marks):
+
+1. viṣṇave → Stem: ___ Type: ___
+2. nadyām → Stem: ___ Type: ___
+3. devānām → Stem: ___ Type: ___
+4. phalāni → Stem: ___ Type: ___
+5. mātrā → Stem: ___ Type: ___
+6. mālābhiḥ → Stem: ___ Type: ___
+7. bhagavataḥ → Stem: ___ Type: ___
+8. agnaye → Stem: ___ Type: ___
+9. vadhvāḥ → Stem: ___ Type: ___
+10. gurubhyaḥ → Stem: ___ Type: ___
+
+---
+
+## Section I: Declension Family Classification (15 marks)
+
+**I1.** Sort the following 15 nouns into their correct stem families (15 marks):
+
+Nouns: rāma, lakṣmī, guru, phala, gaṅgā, agni, vadhū, mātṛ, bhagavat, jñāna, muni, devī, sādhu, mālā, pitṛ
+
+| Stem Family | Nouns |
+|-------------|-------|
+| -a masculine | |
+| -a neuter | |
+| -ā feminine | |
+| -ī feminine | |
+| -ū feminine | |
+| -i masculine | |
+| -u masculine | |
+| Ṛ-stem | |
+| Consonant -at | |
+
+---
+
+## Section J: Cross-Paradigm Generation (10 marks)
+
+**J1.** Using the model paradigms you have learned, generate the requested forms (10 marks):
+
+1. Decline "guru" like viṣṇu — dative singular: ___
+2. Decline "guru" like viṣṇu — dative plural: ___
+3. Decline "lakṣmī" like nadī — instrumental singular: ___
+4. Decline "lakṣmī" like nadī — genitive singular: ___
+5. Decline "śambhu" like viṣṇu — locative singular: ___
+6. Decline "gaṅgā" like mālā — instrumental singular: ___
+7. Decline "pitṛ" like mātṛ — dative singular: ___
+8. Decline "camū" like vadhū — instrumental singular: ___
+9. Decline "latā" like mālā — genitive plural: ___
+10. Decline "muni" like agni — locative singular: ___
+
+---
+
+## Section K: Gender Awareness (10 marks)
+
+**K1.** Answer the following questions about gender and stem type (10 marks):
+
+1. The word "phala" (fruit) is neuter -a. How does its nominative plural differ from "rāma" (masculine -a)? (2 marks)
+   - rāma nominative plural: ___
+   - phala nominative plural: ___
+
+2. Why are the prathamā and dvitīyā forms of "puṣpam" identical, but "devaḥ" and "devam" are different? (2 marks)
+
+3. The word "jñāna" (knowledge) is neuter -a. Give its nominative in all three numbers. (3 marks)
+   - Singular: ___
+   - Dual: ___
+   - Plural: ___
+
+4. Both "viṣṇu" and "madhu" (honey) are -u stems, but viṣṇu is masculine and madhu is neuter. What would you expect for madhu's nominative singular? (1 mark): ___
+
+5. Both "nadī" and "vadhū" are long-vowel feminine stems. What glide consonant appears in nadī's dual nominative (nadyau)? What parallel glide appears in vadhū's? (2 marks): ___
+
+---
+
+## Section L: Reverse Engineering from Mantra (10 marks)
+
+**L1.** In each line from familiar stotras/mantras, identify the **stem** and **vibhakti** (case, number) of the highlighted word (10 marks):
+
+1. **śivāya** namaḥ
+   - Stem: ___ Vibhakti: ___ Number: ___
+
+2. **devānām** ca priyaḥ
+   - Stem: ___ Vibhakti: ___ Number: ___
+
+3. **bhagavantam** praṇamāmi
+   - Stem: ___ Vibhakti: ___ Number: ___
+
+4. **mātaram** ca pitaram ca namāmi
+   - Stem: ___ Vibhakti: ___ Number: ___
+
+5. sarvadeveṣu — sarva-**deveṣu** ca
+   - Stem: ___ Vibhakti: ___ Number: ___
+
+6. he **jagannātha**! prasīda
+   - Stem: ___ Vibhakti: ___ Number: ___
+
+7. **puṣpaiḥ** pūjayāmi
+   - Stem: ___ Vibhakti: ___ Number: ___
+
+8. **nadīnām** pavitrā gaṅgā
+   - Stem: ___ Vibhakti: ___ Number: ___
+
+9. **mātuḥ** caraṇau praṇamāmi
+   - Stem: ___ Vibhakti: ___ Number: ___
+
+10. **viṣṇave** namaḥ
+    - Stem: ___ Vibhakti: ___ Number: ___
+
+---
+
+**Total: 135 marks**

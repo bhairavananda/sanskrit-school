@@ -125,10 +125,14 @@ When praying, you often need "me" — this is **mām** (माम्), the accus
 
 Can you compose a spontaneous 4-line prayer to your iṣṭadevatā using vocative + imperatives?
 
-### 🧱 New Bricks Learned
+### 🧱 LEGO Callback
 
-| Brick Type | Examples | Snaps onto... |
-|------------|----------|---------------|
-| Vocative brick | he rāma!, he devi!, he śiva!, he guro!, he agne! | Any sentence — this brick "addresses" the listener directly; snaps onto imperative verbs (pāhi, dehi, rakṣa) and kāraka sentences from Stage 7 to turn statements into prayers |
+**Sambodhana is a special connector mode** — the prātipadika (finished subassembly) takes a special form to address someone directly. This is "calling mode": the prātipadika sheds its normal sup connector and adopts the vocative form.
 
-**Try snapping**: Take a full kāraka sentence from Stage 7 (e.g., "bhaktaḥ bhaktyā mandire devāya puṣpam dadāti"), replace the third-person kartā with "aham," swap the verb to first person, and snap a vocative brick onto the front — now it is a direct prayer instead of a description.
+| Component | Role | Examples |
+|-----------|------|----------|
+| Prātipadika in calling mode | The nominal stem reshaped for direct address | he rāma!, he devi!, he śiva!, he guro!, he agne! |
+
+The prātipadika in calling mode snaps onto imperative verbs (pāhi, dehi, rakṣa) and kāraka-structured sentences to turn statements into prayers.
+
+**Try snapping**: Take a full kāraka sentence (e.g., "bhaktaḥ bhaktyā mandire devāya puṣpam dadāti"), replace the third-person kartā with "aham," swap the verb to first person, and put a prātipadika in calling mode at the front — now it is a direct prayer instead of a description.

@@ -12,6 +12,8 @@ In Sanskrit, **nāma** (नाम) means "name" or "noun." Every object, deity, 
 
 At this stage, we only learn words in their **prathamā ekavacana** (nominative singular) form — the dictionary form.
 
+Every noun you learn here is a **prātipadika** — a finished subassembly ready to receive connectors. In Stage 5, you will learn the connectors (sup endings) that plug these stems into sentences.
+
 ## Gender Patterns
 
 Most Sanskrit nouns follow predictable gender patterns:

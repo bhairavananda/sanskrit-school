@@ -57,6 +57,24 @@
 | 6 | -yāḥ | -yoḥ | -īnām |
 | 7 | -yām | -yoḥ | -īṣu |
 
+### Neuter -a: Key Differences from Masculine
+
+Only the nominative (1), accusative (2), and vocative (8) differ from the masculine -a pattern:
+
+| Vib. | Masculine (-aḥ) | Neuter (-am) |
+|------|-----------------|--------------|
+| 1 eka | -aḥ | -am |
+| 1 dvi | -au | -e |
+| 1 bahu | -āḥ | -āni |
+| 2 eka | -am | -am |
+| 2 dvi | -au | -e |
+| 2 bahu | -ān | -āni |
+| 8 eka | -a! | -a! |
+| 8 dvi | -au! | -e! |
+| 8 bahu | -āḥ! | -āni! |
+
+Cases 3-7 are identical to masculine. Neuter prathamā and dvitīyā are always the same form.
+
 ### Masculine -i (agni, muni)
 | Vib. | Eka | Dvi | Bahu |
 |------|-----|-----|------|
@@ -68,6 +86,8 @@
 | 6 | -eḥ | -yoḥ | -īnām |
 | 7 | -au | -yoḥ | -iṣu |
 
+**Note on feminine -i stems (mati, gati, bhūmi):** Feminine -i stems differ from masculine primarily in the nominative singular (-iḥ M vs. -iḥ F), dative singular (-aye M vs. -aye / -yai F), and certain plural forms. The masculine paradigm above is the core reference.
+
 ### Masculine -u (viṣṇu, guru)
 | Vib. | Eka | Dvi | Bahu |
 |------|-----|-----|------|
@@ -78,6 +98,22 @@
 | 5 | -oḥ | -ubhyām | -ubhyaḥ |
 | 6 | -oḥ | -voḥ | -ūnām |
 | 7 | -au | -voḥ | -uṣu |
+
+**Note on feminine -u stems (dhenu, tanu):** Feminine -u stems differ from masculine in several endings, notably the instrumental singular (-unā M vs. -vā F) and the dative singular (-ave M vs. -vai F). The masculine paradigm above is the core reference.
+
+### Feminine -ū (vadhū, camū)
+| Vib. | Eka | Dvi | Bahu |
+|------|-----|-----|------|
+| 1 | -ūḥ | -vau | -vaḥ |
+| 2 | -ūm | -vau | -ūḥ |
+| 3 | -vā | -ūbhyām | -ūbhiḥ |
+| 4 | -vai | -ūbhyām | -ūbhyaḥ |
+| 5 | -vāḥ | -ūbhyām | -ūbhyaḥ |
+| 6 | -vāḥ | -voḥ | -ūnām |
+| 7 | -vām | -voḥ | -ūṣu |
+| 8 | -u! | -vau! | -vaḥ! |
+
+The -ū pattern parallels the -ī (nadī) pattern: where -ī stems use a -y- glide, -ū stems use a -v- glide.
 
 ### Ṛ-stem (mātṛ, pitṛ, kartṛ)
 | Vib. | Eka | Dvi | Bahu |

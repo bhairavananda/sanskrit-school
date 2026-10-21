@@ -101,10 +101,16 @@ All mean the same thing. Choose the order that emphasizes what matters most (wha
 
 Can you build 5 complete devotional sentences, each with at least 3 kārakas?
 
-### 🧱 New Bricks Learned
+### 🧱 LEGO Callback
 
-| Brick Type | Examples | Snaps onto... |
-|------------|----------|---------------|
-| Case-connector bricks | kartā→prathamā, karma→dvitīyā, karaṇa→tṛtīyā, sampradāna→caturthī, apādāna→pañcamī, adhikaraṇa→saptamī | Noun-bricks from Stages 1–2 (vibhakti endings) and verb-bricks; kārakas are the semantic glue that tells you *why* a noun has a particular ending |
+**Kāraka is the semantic blueprint** — it tells you WHAT role each noun plays in the scene. Sup endings (case connectors) are HOW that role gets physically encoded on the prātipadika (nominal stem). The kāraka tells you which sup connector to use.
 
-**Try snapping**: Take a verb-brick like "dadāti" and snap on as many case-connector bricks as you can — kartā (who gives?), karma (what?), sampradāna (to whom?), karaṇa (with what?), adhikaraṇa (where?) — building a full pūjā scene from one action.
+| Component | Role | Examples |
+|-----------|------|----------|
+| Kāraka (blueprint) | Tells you which sup connector each prātipadika needs | kartā→prathamā, karma→dvitīyā, karaṇa→tṛtīyā, sampradāna→caturthī, apādāna→pañcamī, adhikaraṇa→saptamī |
+| Sup (noun connector) | The physical ending that attaches to the prātipadika | -aḥ, -am, -ena, -āya, -āt, -asya, -e |
+| Prātipadika (subassembly) | The finished nominal stem that receives the sup connector | deva-, puṣpa-, śiva-, mandira- |
+
+Kāraka is the blueprint that tells you which sup connector to use for each prātipadika in the scene. The prātipadikas snap onto the verb via their sup connectors, and the kāraka system is the building instructions that determine which connector goes where.
+
+**Try snapping**: Take a dhātu-based verb like "dadāti" (from √dā) and, using the kāraka blueprint, attach sup connectors to as many prātipadikas as you can — kartā (who gives?), karma (what?), sampradāna (to whom?), karaṇa (with what?), adhikaraṇa (where?) — building a full pūjā scene from one action.

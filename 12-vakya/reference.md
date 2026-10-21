@@ -107,3 +107,78 @@ Plural: vayam (we), yūyam (you all), te (they M), tāḥ (they F), tāni (they 
 | bhavati | abhavat | became/was |
 | dadāti | adadāt | gave |
 | āsīt | (from √as) | was |
+
+---
+
+## Advanced Stem Paradigms
+
+### manas (mind) — Neuter -as Stem (full 8×3)
+
+| Case | Singular | Dual | Plural |
+|------|----------|------|--------|
+| 1. Nominative | manaḥ | manasī | manāṃsi |
+| 2. Accusative | manaḥ | manasī | manāṃsi |
+| 3. Instrumental | manasā | manobhyām | manobhiḥ |
+| 4. Dative | manase | manobhyām | manobhyaḥ |
+| 5. Ablative | manasaḥ | manobhyām | manobhyaḥ |
+| 6. Genitive | manasaḥ | manasoḥ | manasām |
+| 7. Locative | manasi | manasoḥ | manaḥsu |
+| 8. Vocative | manaḥ | manasī | manāṃsi |
+
+**Other -as stems follow the same pattern:** tapas → tapaḥ, tapasā, tapasi... yaśas → yaśaḥ, yaśasā, yaśasi... tejas → tejaḥ, tejasā, tejasi...
+
+### havis (oblation) — Neuter -is Stem (key forms)
+
+| Case | Singular | Plural |
+|------|----------|--------|
+| 1. Nominative | haviḥ | havīṃṣi |
+| 2. Accusative | haviḥ | havīṃṣi |
+| 3. Instrumental | haviṣā | havirbhiḥ |
+| 4. Dative | haviṣe | havirbhyaḥ |
+| 5. Ablative | haviṣaḥ | havirbhyaḥ |
+| 6. Genitive | haviṣaḥ | haviṣām |
+| 7. Locative | haviṣi | haviḥṣu |
+
+**Other -is stems:** jyotis → jyotiḥ, jyotiṣā, jyotiṣi...
+
+### cakṣus (eye) — Neuter -us Stem (key forms)
+
+| Case | Singular | Plural |
+|------|----------|--------|
+| 1. Nominative | cakṣuḥ | cakṣūṃṣi |
+| 2. Accusative | cakṣuḥ | cakṣūṃṣi |
+| 3. Instrumental | cakṣuṣā | cakṣurbhiḥ |
+| 4. Dative | cakṣuṣe | cakṣurbhyaḥ |
+| 5. Ablative | cakṣuṣaḥ | cakṣurbhyaḥ |
+| 6. Genitive | cakṣuṣaḥ | cakṣuṣām |
+| 7. Locative | cakṣuṣi | cakṣuḥṣu |
+
+**Other -us stems:** āyus → āyuḥ, āyuṣā, āyuṣi... dhanus → dhanuḥ, dhanuṣā, dhanuṣi...
+
+### vāc (speech) — Feminine Root Consonant Stem (full 8×3)
+
+| Case | Singular | Dual | Plural |
+|------|----------|------|--------|
+| 1. Nominative | vāk | vācau | vācaḥ |
+| 2. Accusative | vācam | vācau | vācaḥ |
+| 3. Instrumental | vācā | vāgbhyām | vāgbhiḥ |
+| 4. Dative | vāce | vāgbhyām | vāgbhyaḥ |
+| 5. Ablative | vācaḥ | vāgbhyām | vāgbhyaḥ |
+| 6. Genitive | vācaḥ | vācoḥ | vācām |
+| 7. Locative | vāci | vācoḥ | vākṣu |
+| 8. Vocative | vāk | vācau | vācaḥ |
+
+**Consonant changes at word-end and before suffixes:**
+- Final c → k (vāc → vāk)
+- Before bh-: c → g (vāgbhiḥ)
+- Before s-: c → k (vākṣu)
+
+### Quick Comparison: -as / -is / -us Instrumental Singular
+
+| Stem type | Example | Inst. Sg. |
+|-----------|---------|-----------|
+| -as | manas | manasā |
+| -is | havis | haviṣā |
+| -us | cakṣus | cakṣuṣā |
+
+Pattern: stem + ā, with -s- remaining after -a-, but becoming -ṣ- after -i- and -u- (retroflexion rule).

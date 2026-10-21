@@ -12,7 +12,9 @@ Understand and apply the core sandhi rules of Sanskrit. Given any two words or m
 
 ## What is Sandhi?
 
-**Sandhi** (सन्धि) means "joining" or "junction." In the LEGO framework, these are the **snap-rules** — the laws governing what happens when two bricks click together. Just as LEGO bricks have studs and tubes that must align, Sanskrit sounds have contact rules that transform letters at the boundary. These changes are predictable, governed by Pāṇini's sūtras.
+**Sandhi** (सन्धि) means "joining" or "junction." Sandhi is not a building block. It is what happens when building blocks meet. Morphology tells you WHAT pieces to attach. Sandhi tells you what happens at the SEAM.
+
+In the LEGO framework, sandhi is the **physics of the snap** — the laws governing what happens at the joint when two bricks click together. Just as LEGO bricks have studs and tubes whose geometry forces a specific alignment, Sanskrit sounds have contact rules that transform letters at the boundary. These changes are predictable, governed by Pāṇini's sūtras.
 
 ### Three Types of Sound Change (Kārya)
 
@@ -974,12 +976,14 @@ This combines rephādeśa with subsequent svara sandhis. When a rephānta word (
 
 ---
 
-### 🧱 New Bricks Learned
+### Snap-Rules Learned (Physics of the Joint)
 
-| Brick Type | Examples | Snaps onto... |
+Sandhi is not a new brick type — it is the physics that governs every joint between bricks.
+
+| Snap-Rule Category | Examples | What happens at the seam... |
 |------------|----------|---------------|
-| Snap-rules (ac sandhi) | a+i→e, a+u→o, i+a→ya, u+a→va | Vowel-ending bricks (Stage 1 nouns) meeting vowel-starting bricks — these rules fire automatically at every junction |
-| Snap-rules (hal sandhi) | jaśtva, anusvāra, śchutva | Consonant-ending bricks meeting the next brick — transforms the contact point so the join is smooth |
-| Snap-rules (visarga sandhi) | aḥ+voiced→o, āḥ+voiced→ā | Visarga-ending bricks (namaḥ, devaḥ) meeting any following brick — the visarga adapts to its neighbor |
+| Ac sandhi (vowel physics) | a+i→e, a+u→o, i+a→ya, u+a→va | When a vowel-ending subassembly meets a vowel-starting subassembly, the seam transforms automatically |
+| Hal sandhi (consonant physics) | jaśtva, anusvāra, śchutva | When a consonant-ending subassembly meets the next piece, the contact point transforms so the joint is smooth |
+| Visarga sandhi (breath physics) | aḥ+voiced→o, āḥ+voiced→ā | When a visarga-ending subassembly (namaḥ, devaḥ) meets any following piece, the visarga adapts to its neighbor |
 
-**Try snapping**: Take the deity name and noun bricks from Stage 1, and the letter-knowledge from Stage 2. Now snap them together with sandhi: "namaḥ + śivāya" → "namaś śivāya" (visarga → ś before ś). Try "mahā + īśvara" → "maheśvara" (ā+ī → e, vṛddhi). Every mantra you know is bricks + snap-rules.
+**Try snapping**: Take the noun subassemblies (prātipadika) from Stage 1, and the letter-knowledge from Stage 2. Now join them and watch sandhi fire at the seam: "namaḥ + śivāya" → "namaś śivāya" (visarga → ś before ś). Try "mahā + īśvara" → "maheśvara" (ā+ī → e, guṇa). Every mantra you know is subassemblies + snap-physics.

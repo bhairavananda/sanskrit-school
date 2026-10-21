@@ -71,4 +71,49 @@
 
 ---
 
-**Total: 60 marks**
+## Section E: Advanced Stem Families (30 marks)
+
+**E1.** Stem identification from real texts — identify the stem (dictionary form) and stem type for each word (10 marks):
+1. manasā (from "manasā vacasā karmaṇā")
+2. tapaḥ (from "tapo dānaṃ ca")
+3. vāk (from "vāk ca me manaś ca me")
+4. tejasā (from "sūryasya tejasā")
+5. haviḥ (from "agnaū haviḥ juhoti")
+6. jyotiḥ (from "tamaso mā jyotirgamaya")
+7. āyuḥ (from "āyuṣe tvā")
+8. cakṣuḥ (from "cakṣuḥ prāṇe")
+9. vācam (from "vācam ārabhya")
+10. manāṃsi (from "sarvabhūtānāṃ manāṃsi")
+
+**E2.** -as / -is / -us comparison (5 marks):
+1. How does the instrumental singular differ across manas, havis, and cakṣus? Give the three forms and explain the phonological pattern.
+2. How does the nominative singular differ across these three? What do they share?
+3. What happens to the -s of the stem before bh- endings in each type? Give the instrumental plural for all three.
+
+**E3.** Generation (5 marks):
+1. Decline manas (mind) in all eight cases, singular only.
+2. Give the nominative and accusative plural of tapas (austerity).
+3. Give the instrumental and locative singular of havis (oblation).
+4. Give the nominative singular and instrumental singular of vāc (speech).
+5. Give the nominative and accusative singular of āyus (life).
+
+**E4.** Reverse engineering (5 marks):
+
+In the phrase **"manasā vacasā karmaṇā"** (by mind, by speech, by action):
+1. Identify the stem of each word.
+2. Identify the stem type of each.
+3. What case is each word in?
+4. Why does "vacasā" have -s- while the stem of vāc ends in -c?
+5. What stem type is karman, and how does its instrumental singular form?
+
+**E5.** Composition (5 marks):
+
+Write a 4-line description of a deity (any deity of your choice) using:
+- At least one -as stem (e.g., manas, tapas, tejas, yaśas) in an appropriate case
+- At least one root consonant stem (e.g., vāc, diś) in an appropriate case
+- At least one pronoun (saḥ/sā/tat or tasya/tasyāḥ, etc.)
+- Correct case usage throughout
+
+---
+
+**Total: 90 marks**
