@@ -5,10 +5,14 @@ Learn Sanskrit verbs to describe acts of worship, devotion, and daily spiritual 
 
 ## What is a Kriyā?
 
-**Kriyā** (क्रिया) means "action." Sanskrit verbs conjugate according to:
+**Kriyā** (क्रिया) means "action." The core formula of this stage is: **dhātu + verbal formation + tiṅ = finite verb.**
+
+The **dhātu** (root) is the engine — the core semantic energy of the verb. The **tiṅ** (verb ending) is the verb control panel — it sets person, number, and tense/mood. The same dhātu (engine) produces entirely different outputs depending on which tiṅ setting is applied: √nam with laṭ-tiṅ → namāmi (I bow, present); √nam with laṅ-tiṅ → anamam (I bowed, past); √nam with loṭ-tiṅ → nama (bow!, imperative).
+
+Sanskrit verbs conjugate according to:
 - **Puruṣa** (person): prathama (3rd), madhyama (2nd), uttama (1st)
 - **Vacana** (number): eka (singular), dvi (dual), bahu (plural)
-- **Lakāra** (tense/mood): laṭ (present), loṭ (imperative), laṅ (past), etc.
+- **Lakāra** (tense/mood): laṭ (present), loṭ (imperative), laṅ (past), vidhiliṅ (optative) — four control panel modes
 
 ## Present Tense (Laṭ-lakāra) — The Essential Tense
 
@@ -88,7 +92,7 @@ Describe your daily worship using verbs:
 > dhyāyāmi (I meditate)
 > prasādam svīkaromi (I accept prasāda)
 
-## Past Tense (Laṅ-lakāra — Imperfect)
+## Past Tense (Laṅ-lakāra — Imperfect) — Control Panel Mode 2
 
 The imperfect tense describes completed past actions. It is formed by:
 1. Adding the **augment a-** prefix to the verb stem
@@ -142,7 +146,7 @@ The imperfect tense describes completed past actions. It is formed by:
 - aham mandiram agaccham — I went to the temple
 - vayam stotram agāyāma — we sang a hymn
 
-## Imperative (Loṭ-lakāra)
+## Imperative (Loṭ-lakāra) — Control Panel Mode 3
 
 The imperative mood is essential for prayers, commands, and blessings. It expresses direct requests to the deity.
 
@@ -195,7 +199,7 @@ The imperative mood is essential for prayers, commands, and blessings. It expres
 - stotram paṭha — recite the hymn!
 - dhyānam kuru — do meditation! (√kṛ imperative: kuru)
 
-## Optative (Vidhiliṅ-lakāra) — "Should" / "May"
+## Optative (Vidhiliṅ-lakāra) — Control Panel Mode 4 — "Should" / "May"
 
 The optative expresses wishes, duties, and gentle suggestions. It uses the mood marker **-yā-** (or **-ī-** in parasmaipada) inserted before the personal ending.
 
@@ -238,13 +242,15 @@ Can you retell yesterday's pūjā using the past tense? Can you write 3 prayers 
 
 ---
 
-### 🧱 New Bricks Learned
+### Dhātu (Engine) Configured by Tiṅ (Control Panel) in 4 Modes
 
-| Brick Type | Examples | Snaps onto... |
-|------------|----------|---------------|
-| Present verb brick (laṭ) | namāmi, pūjayati | Subject (prathamā) + object (dvitīyā) noun bricks |
-| Past verb brick (laṅ) | anamam, apūjayat | Same noun bricks, but describes completed actions; adds a- prefix |
-| Command verb brick (loṭ) | rakṣa, āgaccha, pāhi | Direct address — snaps onto vocative noun bricks for prayers |
-| Wish verb brick (vidhiliṅ) | pūjayet, rakṣet | Expresses duty/wish — "one should..." or "may he..." |
+The dhātu is the engine — the same root produces different verb forms depending on which tiṅ (control panel) mode is active.
 
-**Try snapping**: Take the sentence "aham devam namāmi" (present). Now swap the verb brick to past: "aham devam anamam" (I bowed to the deity). Now to imperative, addressing the deity: "he deva! mām rakṣa!" (O deity, protect me!). Now to optative: "bhaktaḥ devam namet" (the devotee should bow to the deity).
+| Control Panel Mode | Tiṅ Setting | Examples | Function |
+|------------|----------|---------------|---------|
+| Present (laṭ) | Primary tiṅ endings | namāmi, pūjayati | Describes current action; snaps onto subject (prathamā) + object (dvitīyā) subassemblies |
+| Past (laṅ) | Secondary tiṅ endings + a- prefix | anamam, apūjayat | Describes completed action; same dhātu engine, different control panel mode |
+| Imperative (loṭ) | Command tiṅ endings | rakṣa, āgaccha, pāhi | Direct request — snaps onto vocative subassemblies for prayers |
+| Optative (vidhiliṅ) | Wish tiṅ endings (-eya-) | pūjayet, rakṣet | Expresses duty/wish — "one should..." or "may he..." |
+
+**Try switching modes**: Take the dhātu √nam (engine: "bowing"). Present mode: "aham devam namāmi." Switch to past mode: "aham devam anamam" (I bowed to the deity). Switch to imperative mode, addressing the deity: "he deva! mām rakṣa!" (O deity, protect me!). Switch to optative mode: "bhaktaḥ devam namet" (the devotee should bow to the deity). Same engine, four control panel settings.

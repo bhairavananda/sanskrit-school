@@ -5,7 +5,7 @@ Master Sanskrit compound formation — the engine behind divine epithets, philos
 
 ## What is Samāsa?
 
-**Samāsa** (समास) means "throwing together" — the joining of two or more words into a single compound. Sanskrit compounds can be enormously long, but they follow strict rules.
+**Samāsa** (समास) means "throwing together" — the fusing of two or more prātipadika subassemblies into one larger model. The individual prātipadikas lose their individual sup connectors; the compound as a whole takes a single set of sup endings. Sanskrit compounds can be enormously long, but they follow strict rules.
 
 ## The Four Major Types
 
@@ -108,13 +108,17 @@ Can you:
 2. Decompose compounds into their constituent words?
 3. Invent 5 new grammatically valid epithets?
 
-### 🧱 New Bricks Learned
+### 🧱 LEGO Callback
 
-| Brick Type | Examples | Snaps onto... |
-|------------|----------|---------------|
-| Compound mega-bricks (tatpuruṣa) | rāja-putra (king's son), vana-vāsa (forest-dwelling) | Two noun-bricks fused via a hidden vibhakti — the first brick modifies the second |
-| Compound mega-bricks (bahuvrīhi) | nīla-kaṇṭha (blue-throated one), catur-bhuja (four-armed one) | Two bricks fused to describe an *external* entity — the compound points outward, perfect for deity epithets |
-| Compound mega-bricks (dvandva) | rāma-lakṣmaṇau, śiva-pārvatī | Two equal bricks joined by invisible "and" — copulative pairing |
-| Compound mega-bricks (avyayībhāva) | prati-dinam (daily), nir-bhayam (fearlessly) | An indeclinable brick fused with a noun to create an adverb mega-brick |
+**Samāsa = fusing subassemblies into one larger model.** Two or more prātipadikas become one. The individual prātipadikas lose their individual sup connectors — the compound as a whole takes a single set of sup endings. This is like gluing two LEGO models together into one larger piece: the internal sup is hidden; only the external sup remains.
 
-**Try snapping**: Build a deity epithet by fusing a synonym brick from Stage 10 with a noun brick — e.g., take "nīla" (blue) + "kaṇṭha" (throat) for a bahuvrīhi, then use that compound mega-brick inside a vocative prayer from Stage 8: "he nīlakaṇṭha! pāhi mām!" Remember to apply sandhi from Stage 3 at the junction.
+| Samāsa Type | What is fused | How it works |
+|-------------|---------------|--------------|
+| Tatpuruṣa | Two prātipadikas, first modifies second | rāja-putra: two subassemblies fused via a hidden sup relation (rājñaḥ putraḥ → rājaputra) |
+| Bahuvrīhi | Two prātipadikas pointing to an external entity | nīla-kaṇṭha: fused subassembly describes someone *outside* itself — "he whose throat is blue" (= Śiva) |
+| Dvandva | Two equal prātipadikas | rāma-lakṣmaṇau: two subassemblies fused with invisible "and" |
+| Avyayībhāva | An indeclinable + a prātipadika | prati-dinam: fused into an adverbial model |
+
+The sandhi at the junction between fused prātipadikas is the physics of the snap — the same rules from Stage 3 apply at every seam.
+
+**Try snapping**: Build a deity epithet by fusing a synonym prātipadika from Stage 10 with another prātipadika — e.g., take "nīla" (blue) + "kaṇṭha" (throat) for a bahuvrīhi, then use that fused samāsa inside a vocative prayer from Stage 8: "he nīlakaṇṭha! pāhi mām!" Remember: sandhi (physics of the snap) applies at the junction.

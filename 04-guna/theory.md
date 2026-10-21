@@ -172,14 +172,16 @@ Example for Devī: sundarī, divyā, karuṇāmayī, mahatī, śāntā, tejasvin
 
 ---
 
-### 🧱 New Bricks Learned
+### Descriptor Subassemblies Learned
 
-| Brick Type | Examples | Snaps onto... |
+Adjectives are **descriptor subassemblies** — they snap onto noun subassemblies (prātipadika) and must agree with them in gender, number, and case.
+
+| Subassembly Type | Examples | Snaps onto... |
 |------------|----------|---------------|
-| Qualifier brick (basic adjective) | sundaraḥ, divyā, nīlam | Noun bricks — must agree in gender, number, and case |
-| Suffix brick (-maya, -vat, -in) | ānandamayaḥ, balavān, tejasvī | Noun stems to form new qualifier bricks |
-| Comparative brick (-tara) | sundarataraḥ, priyatarā | Adjective stems; compared noun takes pañcamī (ablative) |
-| Superlative brick (-tama) | sundaratamaḥ, priyatamā | Adjective stems; used with sarveṣu (among all) |
-| Participial brick (-at/-māna) | rakṣan, sevamānaḥ | Verb stems to create adjective-like bricks describing ongoing action |
+| Basic descriptor subassembly | sundaraḥ, divyā, nīlam | Noun subassemblies — must match in gender, number, and case |
+| Suffix conversion kit (-maya, -vat, -in) | ānandamayaḥ, balavān, tejasvī | Noun stems; the suffix converts a noun into a new descriptor subassembly |
+| Comparative conversion kit (-tara) | sundarataraḥ, priyatarā | Adjective stems; compared noun takes pañcamī (ablative) |
+| Superlative conversion kit (-tama) | sundaratamaḥ, priyatamā | Adjective stems; used with sarveṣu (among all) |
+| Participial descriptor (-at/-māna) | rakṣan, sevamānaḥ | Verb stems converted into descriptor subassemblies describing ongoing action |
 
-**Try snapping**: Combine a participial brick with a noun brick and a qualifier brick: "rakṣan divyaḥ devaḥ" (the protecting, divine god). Now add a comparative: "rakṣan sundarataraḥ devaḥ" (the protecting, more-beautiful god).
+**Try snapping**: Combine a participial descriptor with a noun subassembly and a basic descriptor: "rakṣan divyaḥ devaḥ" (the protecting, divine god). Now add a comparative: "rakṣan sundarataraḥ devaḥ" (the protecting, more-beautiful god).

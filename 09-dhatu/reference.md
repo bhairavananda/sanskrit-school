@@ -92,3 +92,108 @@
 | -man | instrument/result | √kṛ → karman |
 | -tra | instrument | √man → mantra |
 | -tva | abstract N noun | √deva → devatva |
+
+---
+
+## Consonant-Stem Paradigm Tables
+
+### 1. Ātman (masculine -an stem) — "Self"
+
+**Stem alternation**: Strong ātmān- / Middle ātman- / Weak ātma-
+
+| Vibhakti | Ekavacana (sg) | Dvivacana (du) | Bahuvacana (pl) |
+|----------|---------------|----------------|-----------------|
+| Prathamā (nom) | ātmā | ātmānau | ātmānaḥ |
+| Dvitīyā (acc) | ātmānam | ātmānau | ātmanaḥ |
+| Tṛtīyā (inst) | ātmanā | ātmabhyām | ātmabhiḥ |
+| Caturthī (dat) | ātmane | ātmabhyām | ātmabhyaḥ |
+| Pañcamī (abl) | ātmanaḥ | ātmabhyām | ātmabhyaḥ |
+| Ṣaṣṭhī (gen) | ātmanaḥ | ātmanoḥ | ātmanām |
+| Saptamī (loc) | ātmani | ātmanoḥ | ātmasu |
+| Sambodhana (voc) | ātman | ātmānau | ātmānaḥ |
+
+**Strong stem** (ātmān-): nom sg, acc sg, nom/acc/voc du
+**Middle stem** (ātman-): dat/gen/loc sg, gen/loc du, gen pl
+**Weak stem** (ātma-): inst/dat/abl pl (before -bhyām, -bhiḥ, -bhyaḥ, -su)
+
+Other -an stems: rājan (king), nāman (name — neuter, so nom/acc = nāma)
+
+---
+
+### 2. Yogin (masculine -in stem) — "Practitioner of Yoga"
+
+**Stem alternation**: Nom sg yogī / Elsewhere yogin-
+
+| Vibhakti | Ekavacana (sg) | Dvivacana (du) | Bahuvacana (pl) |
+|----------|---------------|----------------|-----------------|
+| Prathamā (nom) | yogī | yoginau | yoginaḥ |
+| Dvitīyā (acc) | yoginam | yoginau | yoginaḥ |
+| Tṛtīyā (inst) | yoginā | yogibhyām | yogibhiḥ |
+| Caturthī (dat) | yogine | yogibhyām | yogibhyaḥ |
+| Pañcamī (abl) | yoginaḥ | yogibhyām | yogibhyaḥ |
+| Ṣaṣṭhī (gen) | yoginaḥ | yoginoḥ | yoginām |
+| Saptamī (loc) | yogini | yoginoḥ | yogiṣu |
+| Sambodhana (voc) | yogin | yoginau | yoginaḥ |
+
+**Key**: Only the nominative singular changes the stem (yogī). All other forms use yogin- directly. The -n drops before bha-endings (yogibhyām, yogibhiḥ, yogiṣu).
+
+Other -in stems: svāmin (lord), pakṣin (bird), dharmin (righteous one), kāmin (lover), gaṇin (one who counts)
+
+---
+
+### 3. Bhagavat (masculine -ant/-at stem) — "the Blessed One"
+
+**Stem alternation**: Strong bhagavant- / Weak bhagavat-
+
+| Vibhakti | Ekavacana (sg) | Dvivacana (du) | Bahuvacana (pl) |
+|----------|---------------|----------------|-----------------|
+| Prathamā (nom) | bhagavān | bhagavantau | bhagavantaḥ |
+| Dvitīyā (acc) | bhagavantam | bhagavantau | bhagavataḥ |
+| Tṛtīyā (inst) | bhagavatā | bhagavadbhyām | bhagavadbhiḥ |
+| Caturthī (dat) | bhagavate | bhagavadbhyām | bhagavadbhyaḥ |
+| Pañcamī (abl) | bhagavataḥ | bhagavadbhyām | bhagavadbhyaḥ |
+| Ṣaṣṭhī (gen) | bhagavataḥ | bhagavatoḥ | bhagavatām |
+| Saptamī (loc) | bhagavati | bhagavatoḥ | bhagavatsu |
+| Sambodhana (voc) | bhagavan | bhagavantau | bhagavantaḥ |
+
+**Strong stem** (bhagavant-): nom sg (→ bhagavān), acc sg, nom/acc/voc du, nom pl
+**Weak stem** (bhagavat-): all other forms
+**Voicing**: -t voices to -d before bh- (bhagavadbhyām, bhagavadbhiḥ)
+
+Other -ant/-at stems: mahat (great), dhīmat (wise), śrīmat (glorious), vidvat (learned, irregular)
+
+---
+
+### 4. Brahman (neuter -man stem) — "the Absolute"
+
+**Stem alternation**: brahman- (with ṇatva: brahmaṇ- before vowels)
+
+| Vibhakti | Ekavacana (sg) | Dvivacana (du) | Bahuvacana (pl) |
+|----------|---------------|----------------|-----------------|
+| Prathamā (nom) | brahma | brahmaṇī | brahmāṇi |
+| Dvitīyā (acc) | brahma | brahmaṇī | brahmāṇi |
+| Tṛtīyā (inst) | brahmaṇā | brahmabhyām | brahmabhiḥ |
+| Caturthī (dat) | brahmaṇe | brahmabhyām | brahmabhyaḥ |
+| Pañcamī (abl) | brahmaṇaḥ | brahmabhyām | brahmabhyaḥ |
+| Ṣaṣṭhī (gen) | brahmaṇaḥ | brahmaṇoḥ | brahmaṇām |
+| Saptamī (loc) | brahmaṇi | brahmaṇoḥ | brahmasu |
+| Sambodhana (voc) | brahma / brahman | brahmaṇī | brahmāṇi |
+
+**Key neuter features**:
+- Nom and acc are always identical (as with all neuters)
+- Nom/acc sg = bare stem without -n: brahma (not *brahmā)
+- The -n becomes -ṇ before vowel-initial endings (ṇatva rule, triggered by the r in brahman)
+- Nom/acc pl adds -āṇi (brahmāṇi), du adds -ṇī (brahmaṇī)
+
+Other neuter -man stems: karman (action), nāman (name), dharman (law, archaic → dharma)
+
+---
+
+### Strong/Weak Stem Quick Reference
+
+| Stem Type | Strong Form | Weak Form | Strong Used In |
+|-----------|------------|-----------|----------------|
+| -an (ātman) | ātmān- | ātman- / ātma- | nom sg, acc sg, nom/acc/voc du |
+| -in (yogin) | yogī (nom sg only) | yogin- | nom sg only |
+| -ant (bhagavat) | bhagavant- | bhagavat- | nom sg, acc sg, nom/acc/voc du, nom pl |
+| -man (brahman, N) | brahmāṇ- (nom/acc pl) | brahman- / brahma- | nom/acc pl |

@@ -103,10 +103,14 @@ Given a deity, generate epithets by combining:
 
 Can you explain the etymology of at least 10 divine epithets and generate 5 new grammatically valid ones?
 
-### 🧱 New Bricks Learned
+### 🧱 LEGO Callback
 
-| Brick Type | Examples | Snaps onto... |
-|------------|----------|---------------|
-| Synonym bricks | padma/kamala/aravinda (lotus), sūrya/bhāskara/ravi (sun), jala/vāri/nīra (water), candra/śaśin/indu (moon) | Any noun-slot in your sentences — these are interchangeable bricks of the same shape and meaning, letting you swap for metrical fit or poetic variety without changing the structure |
+**Paryāyas are multiple prātipadika subassemblies that encode the same semantic content but have different shapes.** This is like having interchangeable LEGO parts — same function, different aesthetic. The prātipadikas padma, kamala, and aravinda all mean "lotus," but each has a different syllable shape, giving you flexibility in metrical composition and poetic variety.
 
-**Try snapping**: Rewrite a devotional sentence from Stage 7 three times, each time replacing a key noun with a different synonym brick — e.g., "bhaktaḥ **padmam** arpayati" → "bhaktaḥ **kamalam** arpayati" → "bhaktaḥ **aravindam** arpayati" — and notice how the rhythm changes while the meaning stays the same.
+| Component | Role | Examples |
+|-----------|------|----------|
+| Interchangeable prātipadikas | Same meaning, different shape — swap freely in any sup-connected slot | padma/kamala/aravinda (lotus), sūrya/bhāskara/ravi (sun), jala/vāri/nīra (water), candra/śaśin/indu (moon) |
+
+Each synonym prātipadika takes the same sup connectors and fits into the same kāraka roles — only the aesthetic shape of the subassembly changes.
+
+**Try snapping**: Rewrite a devotional sentence three times, each time replacing a key prātipadika with a different synonym — e.g., "bhaktaḥ **padmam** arpayati" → "bhaktaḥ **kamalam** arpayati" → "bhaktaḥ **aravindam** arpayati" — and notice how the rhythm changes while the meaning stays the same.
