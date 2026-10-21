@@ -24,40 +24,39 @@ if os.path.exists(overview_path):
 stage_meta = {
     "01-nama": ("Nama", "Basic Vocabulary"),
     "02-varna-vidya": ("Varna-Vidya", "Letters, Sthana-prayatna, Maheshvara Sutras"),
-    "03-sandhi": ("Sandhi", "27 Snap-Rules for Joining Bricks"),
-    "04-guna": ("Guna", "Adjectives"),
-    "05-rupa": ("Rupa", "Case / Number / Gender -- The Baseplates"),
-    "06-kriya": ("Kriya", "Verbs -- The Action Bricks"),
-    "07-karaka": ("Karaka", "Semantic Relations"),
-    "08-sambodhana": ("Sambodhana", "Direct Address"),
-    "09-dhatu": ("Dhatu", "Roots & Upasargas"),
-    "10-paryaya": ("Paryaya", "Synonyms & Epithets"),
-    "11-samasa": ("Samasa", "Compounds -- LEGO Technic"),
-    "12-vakya": ("Vakya", "Free Composition"),
-    "13-bhava": ("Bhava", "Emotional Vocabulary"),
-    "14-stotra-i": ("Stotra I", "Accusative Constructions"),
-    "15-stotra-ii": ("Stotra II", "Varied Cases"),
-    "16-prarthana": ("Prarthana", "Requests & Imperatives"),
-    "17-puja-vak": ("Puja-Vak", "Sankalpa, Nyasa, Dhyana, Upacara"),
-    "18-katha": ("Katha", "Narration"),
-    "19-chandas-i": ("Chandas I", "Syllables & Meter"),
-    "20-svara-vidya": ("Svara-Vidya", "Vedic Accent"),
-    "21-chandas-ii": ("Chandas II", "Anustubh"),
-    "22-chandas-iii": ("Chandas III", "Multiple Meters"),
-    "23-paryaya-chandas": ("Paryaya-Chandas", "Lexical Flexibility"),
-    "24-alankara": ("Alankara", "Poetic Ornament"),
-    "25-rasa": ("Rasa", "Emotional Aesthetics"),
-    "26-darshana": ("Darshana", "Philosophical Expression"),
-    "27-samasyapurana": ("Samasyapurana", "Backwards Composition"),
-    "28-dattapadi": ("Dattapadi", "Forced Vocabulary"),
-    "29-nishiddhakshari": ("Nishiddhakshari", "Inhibition"),
-    "30-citra-kavya": ("Citra-kavya", "Stacked Constraints"),
-    "31-dharana-i": ("Dharana I", "Interrupted Memory"),
-    "32-dharana-ii": ("Dharana II", "Associative Retrieval"),
-    "33-aprastuta-prasanga": ("Aprastuta-prasanga", "Wit & Context Switching"),
-    "34-multi-devata": ("Multi-devata", "Rapid Semantic Switching"),
-    "35-ashtavadhana": ("Ashtavadhana", "Integrated Attention"),
-    "36-avadhana-seva": ("Avadhana-seva", "Mastery"),
+    "03-guna": ("Guna", "Adjectives"),
+    "04-rupa": ("Rupa", "Case / Number / Gender"),
+    "05-kriya": ("Kriya", "Verbs"),
+    "06-karaka": ("Karaka", "Semantic Relations"),
+    "07-sambodhana": ("Sambodhana", "Direct Address"),
+    "08-dhatu": ("Dhatu", "Roots & Upasargas"),
+    "09-paryaya": ("Paryaya", "Synonyms & Epithets"),
+    "10-samasa": ("Samasa", "Compounds"),
+    "11-vakya": ("Vakya", "Free Composition"),
+    "12-bhava": ("Bhava", "Emotional Vocabulary"),
+    "13-stotra-i": ("Stotra I", "Accusative Constructions"),
+    "14-stotra-ii": ("Stotra II", "Varied Cases"),
+    "15-prarthana": ("Prarthana", "Requests & Imperatives"),
+    "16-puja-vak": ("Puja-Vak", "Ritual Sanskrit Grammar"),
+    "17-katha": ("Katha", "Narration"),
+    "18-chandas-i": ("Chandas I", "Syllables & Meter"),
+    "19-svara-vidya": ("Svara-Vidya", "Vedic Accent System"),
+    "20-chandas-ii": ("Chandas II", "Anustubh"),
+    "21-chandas-iii": ("Chandas III", "Multiple Meters"),
+    "22-paryaya-chandas": ("Paryaya-Chandas", "Lexical Flexibility"),
+    "23-alankara": ("Alankara", "Poetic Ornament"),
+    "24-rasa": ("Rasa", "Emotional Aesthetics"),
+    "25-darshana": ("Darshana", "Philosophical Expression"),
+    "26-samasyapurana": ("Samasyapurana", "Backwards Composition"),
+    "27-dattapadi": ("Dattapadi", "Forced Vocabulary"),
+    "28-nishiddhakshari": ("Nishiddhakshari", "Inhibition"),
+    "29-citra-kavya": ("Citra-kavya", "Stacked Constraints"),
+    "30-dharana-i": ("Dharana I", "Interrupted Memory"),
+    "31-dharana-ii": ("Dharana II", "Associative Retrieval"),
+    "32-aprastuta-prasanga": ("Aprastuta-prasanga", "Wit & Context Switching"),
+    "33-multi-devata": ("Multi-devata", "Rapid Semantic Switching"),
+    "34-ashtavadhana": ("Ashtavadhana", "Integrated Attention"),
+    "35-avadhana-seva": ("Avadhana-seva", "Mastery"),
 }
 
 file_labels = {
@@ -1270,7 +1269,8 @@ body {
 <nav class="sidebar" id="sidebar">
   <div class="sidebar-header">
     <h1>Sanskrit School</h1>
-    <div class="subtitle">36 Stages &middot; Language &middot; Poetry &middot; Avadhana</div>
+    <div class="subtitle">35 Stages &middot; Language &middot; Poetry &middot; Avadhana</div>
+    <a href="conversation/conversation.html" style="display:inline-block;margin-top:8px;font-size:11px;color:var(--text-dim);text-decoration:none;font-family:var(--font-mono);" onmouseover="this.style.color='var(--green)'" onmouseout="this.style.color='var(--text-dim)'" >conversation track &rarr;</a>
   </div>
   <div class="section-toggle">
     <div class="section-btn active" onclick="showSection('lessons')">Lessons</div>
@@ -1296,7 +1296,7 @@ body {
       <div class="welcome">
         <div class="welcome-icon">&#x0950;</div>
         <h2>Select a stage to begin</h2>
-        <p>Work through 36 stages from basic vocabulary to avadhana mastery, or explore the vocabulary bank.</p>
+        <p>Work through 35 stages from basic vocabulary to avadhana mastery, or explore the vocabulary bank.</p>
         <div class="shortcut-hint">
           <span><kbd>/</kbd> Search</span>
           <span><kbd>&uarr;</kbd><kbd>&darr;</kbd> Navigate</span>
@@ -1315,7 +1315,7 @@ const VOCAB = """ + json.dumps(vocab_categories, ensure_ascii=False) + """;
 const PHASES = [
   { label: "Phase 1: Language Acquisition", range: [1, 12] },
   { label: "Phase 2: Poetic Composition",   range: [13, 25] },
-  { label: "Phase 3: Avadhana",             range: [26, 36] },
+  { label: "Phase 3: Avadhana",             range: [26, 35] },
 ];
 
 let currentSection = 'lessons';
