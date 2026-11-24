@@ -1,4 +1,4 @@
-# Stage 15 Badge: Stutikāra II
+# Stage 14 Badge: Stutikāra II
 
 **Title:** Case Artisan
 **Badge:** 🏅 Stutikāra II
@@ -15,4 +15,4 @@ Post your submission in **#badge-submissions** on Discord. A reviewer will verif
 
 ## Unlock
 
-Completing this badge unlocks Stage 16 content and grants the **Stutikāra II** role on Discord.
+Completing this badge unlocks Stage 15 content and grants the **Stutikāra II** role on Discord.

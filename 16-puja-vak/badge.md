@@ -1,4 +1,4 @@
-# Stage 17 Badge: Pūjāvādin
+# Stage 16 Badge: Pūjāvādin
 
 **Title:** Ritual Voice
 **Badge:** 🏅 Pūjāvādin
@@ -17,4 +17,4 @@ Post your submission in **#badge-submissions** on Discord. A reviewer will verif
 
 ## Unlock
 
-Completing this badge unlocks Stage 18 content and grants the **Pūjāvādin** role on Discord.
+Completing this badge unlocks Stage 17 content and grants the **Pūjāvādin** role on Discord.

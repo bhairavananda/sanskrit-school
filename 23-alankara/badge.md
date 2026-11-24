@@ -1,4 +1,4 @@
-# Stage 24 Badge: Alaṅkāravit
+# Stage 23 Badge: Alaṅkāravit
 
 **Title:** Ornament Master
 **Badge:** 🏅 Alaṅkāravit
@@ -15,4 +15,4 @@ Post your submission in **#badge-submissions** on Discord. A reviewer will verif
 
 ## Unlock
 
-Completing this badge unlocks Stage 25 content and grants the **Alaṅkāravit** role on Discord.
+Completing this badge unlocks Stage 24 content and grants the **Alaṅkāravit** role on Discord.

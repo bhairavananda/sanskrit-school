@@ -1,4 +1,4 @@
-# Stage 27 Badge: Samasyāpūraka
+# Stage 26 Badge: Samasyāpūraka
 
 **Title:** Backwards Builder
 **Badge:** 🏅 Samasyāpūraka
@@ -15,4 +15,4 @@ Post your submission in **#badge-submissions** on Discord. A reviewer will verif
 
 ## Unlock
 
-Completing this badge unlocks Stage 28 content and grants the **Samasyāpūraka** role on Discord.
+Completing this badge unlocks Stage 27 content and grants the **Samasyāpūraka** role on Discord.

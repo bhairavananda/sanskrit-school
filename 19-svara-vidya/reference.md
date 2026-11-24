@@ -1,4 +1,4 @@
-# Svara-Vidyā — Reference Guide
+# Stage 19: Svara-Vidyā — Reference Guide
 
 ## The Three Svaras
 

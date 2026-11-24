@@ -1,4 +1,4 @@
-# Stage 20 Badge: Svaravit
+# Stage 19 Badge: Svaravit
 
 **Title:** Accent Keeper
 **Badge:** 🏅 Svaravit
@@ -17,4 +17,4 @@ Post your submission in **#badge-submissions** on Discord. A reviewer will verif
 
 ## Unlock
 
-Completing this badge unlocks Stage 21 content and grants the **Svaravit** role on Discord.
+Completing this badge unlocks Stage 20 content and grants the **Svaravit** role on Discord.

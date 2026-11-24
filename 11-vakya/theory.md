@@ -1,11 +1,11 @@
-# Stage 10: Vākya — Free Composition
+# Stage 11: Vākya — Free Composition
 
 ## Goal
 Compose freely in Sanskrit — describe daily life, thoughts, and experiences. Begin thinking directly in Sanskrit without translating from English.
 
 ## The Shift: From Components to Complete Scenes
 
-Stages 1–9 gave you the full construction system — dhātus (engines), upasargas (modifier attachments), pratyayas (conversion kits), prātipadikas (finished subassemblies), sup connectors, tiṅ control panels, sandhi (physics of the snap), and samāsas (fused subassemblies). Now you combine them fluidly into vākyas — complete scenes. This stage is about **automaticity** — moving from conscious rule-application to natural expression.
+Stages 1–10 gave you the full construction system — dhātus (engines), upasargas (modifier attachments), pratyayas (conversion kits), prātipadikas (finished subassemblies), sup connectors, tiṅ control panels, sandhi (physics of the snap), and samāsas (fused subassemblies). Now you combine them fluidly into vākyas — complete scenes. This stage is about **automaticity** — moving from conscious rule-application to natural expression.
 
 ## Sentence Patterns for Daily Life
 
@@ -222,7 +222,7 @@ Other root stems: diś (direction, f.) — "daśa diśaḥ" (the ten directions)
 
 ### 5. Pronominal Declension
 
-Pronouns — tad (that), idam (this), kim (what?), sarva (all), etad (this here) — follow their own special patterns. You already met the personal pronouns (aham, tvam) in Stage 5 and the demonstrative forms (saḥ, sā, tat) in daily use.
+Pronouns — tad (that), idam (this), kim (what?), sarva (all), etad (this here) — follow their own special patterns. You already met the personal pronouns (aham, tvam) in Stage 4 and the demonstrative forms (saḥ, sā, tat) in daily use.
 
 The key difference: pronominal stems use -smin (loc sg) and -smai (dat sg) instead of the regular noun endings -e and -āya. The adjective sarva (all) also follows pronominal declension.
 
@@ -249,14 +249,14 @@ The student is now assembling complete scenes from all the components learned: p
 
 | Component | LEGO Role | Learned in |
 |-----------|-----------|------------|
-| Dhātu | Basic brick / engine | Stage 9 |
-| Upasarga | Modifier attachment | Stage 9 |
-| Pratyaya (kṛt, taddhita) | Conversion kit | Stage 9 |
-| Prātipadika | Finished subassembly | Stages 1–2, 5, 9 |
-| Sup | Noun connector | Stage 5, refined in Stage 7 (kāraka) |
-| Tiṅ | Verb control panel | Stage 6 |
+| Dhātu | Basic brick / engine | Stage 8 |
+| Upasarga | Modifier attachment | Stage 8 |
+| Pratyaya (kṛt, taddhita) | Conversion kit | Stage 8 |
+| Prātipadika | Finished subassembly | Stages 1, 3–4, 8 |
+| Sup | Noun connector | Stage 4, refined in Stage 6 (kāraka) |
+| Tiṅ | Verb control panel | Stage 5 |
 | Sandhi | Physics of the snap (not a brick — the rules governing how components join) | Stage 3 |
-| Samāsa | Fusing subassemblies into one larger model | Stage 11 |
+| Samāsa | Fusing subassemblies into one larger model | Stage 10 |
 | Vākya | **The complete scene** | This stage |
 
 | Additional Baseplates | Examples | Role |

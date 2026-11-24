@@ -1,4 +1,4 @@
-# Stage 8 Badge: Prārthanākāra
+# Stage 7 Badge: Prārthanākāra
 
 **Title:** Prayer Caller
 **Badge:** 🏅 Prārthanākāra
@@ -16,4 +16,4 @@ Post your submission in **#badge-submissions** on Discord. A reviewer will verif
 
 ## Unlock
 
-Completing this badge unlocks Stage 9 content and grants the **Prārthanākāra** role on Discord.
+Completing this badge unlocks Stage 8 content and grants the **Prārthanākāra** role on Discord.

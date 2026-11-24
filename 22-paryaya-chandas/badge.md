@@ -1,4 +1,4 @@
-# Stage 23 Badge: Padavit
+# Stage 22 Badge: Padavit
 
 **Title:** Lexical Acrobat
 **Badge:** 🏅 Padavit
@@ -15,4 +15,4 @@ Post your submission in **#badge-submissions** on Discord. A reviewer will verif
 
 ## Unlock
 
-Completing this badge unlocks Stage 24 content and grants the **Padavit** role on Discord.
+Completing this badge unlocks Stage 23 content and grants the **Padavit** role on Discord.

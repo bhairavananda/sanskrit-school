@@ -1,4 +1,4 @@
-# Stage 3: Rūpa — Case, Number, and Gender (Declension)
+# Stage 4: Rūpa — Case, Number, and Gender (Declension)
 
 ## Goal
 Learn to transform nouns through all cases (vibhaktis), numbers, and genders. Decline devotional vocabulary actively so that words become usable in sentences.
@@ -290,9 +290,9 @@ Can you also decline viṣṇu, mātṛ, and bhagavat? Can you use aham, tvam, a
 
 These seven vowel-stem families (-a masculine, -a neuter, -ā, -ī, -ū, -i, -u) are your **core prātipadika types** (finished subassembly shapes). They cover the vast majority of nouns you will encounter in stotra, mantra, and devotional texts.
 
-In **Stage 9**, you will meet **consonant-stem families** (-an, -in, -ant/-at, -man) — the prātipadika types for philosophical and epithet vocabulary. Words like "ātman" (self), "yogin" (practitioner), "bhagavant" (the blessed one), and "brahman" (the absolute) all belong to these families.
+In **Stage 8**, you will meet **consonant-stem families** (-an, -in, -ant/-at, -man) — the prātipadika types for philosophical and epithet vocabulary. Words like "ātman" (self), "yogin" (practitioner), "bhagavant" (the blessed one), and "brahman" (the absolute) all belong to these families.
 
-By **Stage 12**, you will encounter **advanced stem types** (-as/-is/-us, root consonant stems) and irregular paradigms. These include words like "manas" (mind), "havis" (oblation), and "vāc" (speech).
+By **Stage 11**, you will encounter **advanced stem types** (-as/-is/-us, root consonant stems) and irregular paradigms. These include words like "manas" (mind), "havis" (oblation), and "vāc" (speech).
 
 The principle never changes: **learn the model, then generate.**
 
@@ -315,6 +315,6 @@ You now know **7 prātipadika types** (finished subassembly shapes) and the **su
 | Consonant-stem (-at) | bhagavat, mahat | -at class sup endings; titles and adjective-nouns |
 | Pronoun subassemblies (1st/2nd/3rd) | aham/mām/mama, tvam, saḥ/sā/tat | Replace noun subassemblies entirely; unique sup patterns |
 
-That is **7 vowel-stem prātipadika types** plus the ṛ-stem and one consonant-stem preview. Consonant-stem types (-an, -in, -man, -ant) arrive in Stage 9.
+That is **7 vowel-stem prātipadika types** plus the ṛ-stem and one consonant-stem preview. Consonant-stem types (-an, -in, -man, -ant) arrive in Stage 8.
 
-**Try snapping**: Attach a pronoun subassembly to a verb from Stage 6: "aham devam namāmi" (I bow to the deity). Now swap the pronoun: "saḥ devam namati" (he bows to the deity). Now swap the noun subassembly to ṛ-stem: "aham mātaram namāmi" (I bow to the mother). In each case: prātipadika + sup → inflected form → sandhi at the seam → the word you hear.
+**Try snapping**: Attach a pronoun subassembly to a verb from Stage 5: "aham devam namāmi" (I bow to the deity). Now swap the pronoun: "saḥ devam namati" (he bows to the deity). Now swap the noun subassembly to ṛ-stem: "aham mātaram namāmi" (I bow to the mother). In each case: prātipadika + sup → inflected form → sandhi at the seam → the word you hear.

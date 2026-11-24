@@ -1,4 +1,4 @@
-# Stage 11 Badge: Samāsakāra
+# Stage 10 Badge: Samāsakāra
 
 **Title:** Compound Builder
 **Badge:** 🏅 Samāsakāra
@@ -17,4 +17,4 @@ Post your submission in **#badge-submissions** on Discord. A reviewer will verif
 
 ## Unlock
 
-Completing this badge unlocks Stage 12 content and grants the **Samāsakāra** role on Discord.
+Completing this badge unlocks Stage 11 content and grants the **Samāsakāra** role on Discord.

@@ -1,4 +1,4 @@
-# Stage 6: Sambodhana — Reference Guide
+# Stage 7: Sambodhana — Reference Guide
 
 ## Vocative Formation Rules
 

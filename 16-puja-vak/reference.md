@@ -1,4 +1,4 @@
-# Pūjā-Vāk — Reference Guide
+# Stage 16: Pūjā-Vāk — Reference Guide
 
 ## Saṅkalpa Template
 

@@ -1,4 +1,4 @@
-# Stage 33 Badge: Vāgmin
+# Stage 32 Badge: Vāgmin
 
 **Title:** Wit Under Fire
 **Badge:** 🏅 Vāgmin
@@ -15,4 +15,4 @@ Post your submission in **#badge-submissions** on Discord. A reviewer will verif
 
 ## Unlock
 
-Completing this badge unlocks Stage 34 content and grants the **Vāgmin** role on Discord.
+Completing this badge unlocks Stage 33 content and grants the **Vāgmin** role on Discord.

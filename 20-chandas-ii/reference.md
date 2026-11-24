@@ -1,4 +1,4 @@
-# Stage 17: Chandas II — Reference Guide
+# Stage 20: Chandas II — Reference Guide
 
 ## Anuṣṭubh Rules Summary
 

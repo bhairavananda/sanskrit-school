@@ -1,4 +1,4 @@
-# Stage 36 Badge: Avadhānī
+# Stage 35 Badge: Avadhānī
 
 **Title:** Master Builder
 **Badge:** 🏅 Avadhānī
@@ -15,4 +15,4 @@ Post your submission in **#badge-submissions** on Discord. A reviewer will verif
 
 ## Unlock
 
-Completing this badge unlocks Stage 37 content and grants the **Avadhānī** role on Discord.
+Completing this badge completes the curriculum and grants the **Avadhānī** role on Discord.

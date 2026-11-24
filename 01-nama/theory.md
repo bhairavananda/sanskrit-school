@@ -12,7 +12,7 @@ In Sanskrit, **nāma** (नाम) means "name" or "noun." Every object, deity, 
 
 At this stage, we only learn words in their **prathamā ekavacana** (nominative singular) form — the dictionary form.
 
-Every noun you learn here is a **prātipadika** — a finished subassembly ready to receive connectors. In Stage 5, you will learn the connectors (sup endings) that plug these stems into sentences.
+Every noun you learn here is a **prātipadika** — a finished subassembly ready to receive connectors. In Stage 4, you will learn the connectors (sup endings) that plug these stems into sentences.
 
 ## Gender Patterns
 
@@ -93,7 +93,7 @@ Practice by looking at an image of your iṣṭadevatā and naming everything yo
 - What is the deity holding? (triśūlam, padmam, veṇuḥ…)
 - What is the deity wearing? (mālā, vasanam…)
 - What surrounds the deity? (agniḥ, padmam, parvatah…)
-- What qualities does the deity embody? (preview of Stage 2)
+- What qualities does the deity embody? (preview of Stage 3)
 
 ## Key Principle: Nāma as Mantra
 

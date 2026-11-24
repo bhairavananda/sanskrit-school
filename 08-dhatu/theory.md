@@ -1,4 +1,4 @@
-# Stage 7: Dhātu — Roots and Upasargas
+# Stage 8: Dhātu — Roots and Upasargas
 
 ## Goal
 Understand verbal roots (dhātus) as the atomic units of Sanskrit meaning, and learn how upasargas (prefixes) transform them systematically. See the semantic architecture hidden inside sacred vocabulary.
@@ -110,8 +110,8 @@ A **pratyaya** (प्रत्यय) is a suffix — in LEGO terms, a **conver
 |-----------------|-------------|---------|----------|
 | **Kṛt** | Dhātu (verbal root) | Nouns, adjectives, participles from roots | √kṛ + tṛ → kartṛ (doer), √kṛ + ta → kṛta (done) |
 | **Taddhita** | Prātipadika (nominal stem) | Derived nouns/adjectives from existing stems | rājan + ya → rājya (kingdom), guru + tva → gurutva (gravity) |
-| **Sup** | Prātipadika (nominal stem) | Inflected nouns (already learned in Stage 5) | deva + -aḥ → devaḥ |
-| **Tiṅ** | Dhātu (verbal root) | Inflected verbs (already learned in Stage 6) | √gam + -ti → gacchati |
+| **Sup** | Prātipadika (nominal stem) | Inflected nouns (already learned in Stage 4) | deva + -aḥ → devaḥ |
+| **Tiṅ** | Dhātu (verbal root) | Inflected verbs (already learned in Stage 5) | √gam + -ti → gacchati |
 
 You have already been using sup (noun connectors) and tiṅ (verb control panels) since earlier stages. Now you see that kṛt and taddhita are two more conversion kit types — they derive NEW stems rather than inflecting existing ones.
 
@@ -160,7 +160,7 @@ Given a word like "anugraha," can you identify the root (√grah) and prefix (an
 
 Every verb you have used since Stage 1 is a dhātu with a tiṅ control panel attached. Every noun stem is a prātipadika — often a dhātu that has been run through a kṛt conversion kit.
 
-**Try snapping**: Pick a single dhātu like √hṛ (to take) and attach four different upasarga modifier attachments — anu+hṛ (anugraha, grace), vi+hṛ (vihāra, sport), pra+hṛ (prahāra, strike), sam+hṛ (saṃhāra, destruction) — then use each derived prātipadika in a devotional sentence with kāraka-assigned sup connectors from Stage 7.
+**Try snapping**: Pick a single dhātu like √hṛ (to take) and attach four different upasarga modifier attachments — anu+hṛ (anugraha, grace), vi+hṛ (vihāra, sport), pra+hṛ (prahāra, strike), sam+hṛ (saṃhāra, destruction) — then use each derived prātipadika in a devotional sentence with kāraka-assigned sup connectors from Stage 6.
 
 ---
 
@@ -300,7 +300,7 @@ Note: The key neuter difference — nominative and accusative are identical (as 
 
 ### Eleven Baseplates
 
-With these four consonant-stem families plus the seven vowel baseplates from Stage 5, you can now decline the vast majority of nouns in devotional, philosophical, and ritual Sanskrit. The full inventory:
+With these four consonant-stem families plus the seven vowel baseplates from Stage 4, you can now decline the vast majority of nouns in devotional, philosophical, and ritual Sanskrit. The full inventory:
 
 | # | Type | Model | Gender | Stage |
 |---|------|-------|--------|-------|

@@ -1,4 +1,4 @@
-# Pūjā-Vāk — Workbook (Questions)
+# Stage 16: Pūjā-Vāk — Workbook (Questions)
 
 ## Section A: Saṅkalpa Construction (20 marks)
 

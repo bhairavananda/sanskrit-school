@@ -1,4 +1,4 @@
-# Stage 30: Multi-devatā — Workbook (Answers)
+# Stage 33: Multi-devatā — Workbook (Answers)
 
 ## Scoring Guide
 

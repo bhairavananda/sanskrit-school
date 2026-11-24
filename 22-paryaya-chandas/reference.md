@@ -1,4 +1,4 @@
-# Stage 19: Paryāya-Chandas — Reference Guide
+# Stage 22: Paryāya-Chandas — Reference Guide
 
 ## Prosodic Synonym Banks
 

@@ -1,4 +1,4 @@
-# Stage 22 Badge: Chandasvit III
+# Stage 21 Badge: Chandasvit III
 
 **Title:** Multi-Meter Poet
 **Badge:** 🏅 Chandasvit III
@@ -15,4 +15,4 @@ Post your submission in **#badge-submissions** on Discord. A reviewer will verif
 
 ## Unlock
 
-Completing this badge unlocks Stage 23 content and grants the **Chandasvit III** role on Discord.
+Completing this badge unlocks Stage 22 content and grants the **Chandasvit III** role on Discord.

@@ -1,4 +1,4 @@
-# Svara-Vidyā — The Science of Vedic Accent
+# Stage 19: Svara-Vidyā — The Science of Vedic Accent
 
 ## Goal
 Understand the three Vedic svaras (udātta, anudātta, svarita), their rules in the Kṛṣṇa Yajurveda tradition, and the difference between Vedic recitation and classical Sanskrit. Learn to mark svaras on a mantra. Understand the vikṛti system (jaṭā, ghana) as sonic architecture.
@@ -231,7 +231,7 @@ Classical Sanskrit poetry retained chandas but lost svara — syllable weight st
 
 Pāṇini's grammar records the accent system but notes that it was already becoming archaic in everyday speech. The Prātiśākhya texts preserve the rules because the Vedic recitation tradition *needed* them — the mantras required exact pitch. But laukika (worldly) Sanskrit moved toward a stress-based system instead of a pitch-based one.
 
-This means: when you compose a śloka in classical Sanskrit (stages 12-22 of this syllabus), you control syllable *weight* through meter. When you recite a Vedic mantra, you control syllable *pitch* through svara. The two disciplines use different parameters on the same raw material.
+This means: when you compose a śloka in classical Sanskrit (stages 18 and 20–25 of this syllabus), you control syllable *weight* through meter. When you recite a Vedic mantra, you control syllable *pitch* through svara. The two disciplines use different parameters on the same raw material.
 
 ---
 

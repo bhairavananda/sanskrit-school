@@ -1,4 +1,4 @@
-# Stage 31: Aṣṭāvadhāna — Workbook (Answers)
+# Stage 34: Aṣṭāvadhāna — Workbook (Answers)
 
 ## Scoring Rubric
 

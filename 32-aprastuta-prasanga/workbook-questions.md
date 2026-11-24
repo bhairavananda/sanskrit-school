@@ -1,4 +1,4 @@
-# Stage 29: Aprastuta-prasaṅga — Workbook (Questions)
+# Stage 32: Aprastuta-prasaṅga — Workbook (Questions)
 
 ## Exercise 1: Compose Under Interruption (30 marks)
 

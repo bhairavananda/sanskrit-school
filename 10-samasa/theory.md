@@ -1,4 +1,4 @@
-# Stage 9: Samāsa — Compounds
+# Stage 10: Samāsa — Compounds
 
 ## Goal
 Master Sanskrit compound formation — the engine behind divine epithets, philosophical terms, and poetic expression. Learn to build and decompose compounds, and invent grammatically valid new epithets.
@@ -121,4 +121,4 @@ Can you:
 
 The sandhi at the junction between fused prātipadikas is the physics of the snap — the same rules from Stage 3 apply at every seam.
 
-**Try snapping**: Build a deity epithet by fusing a synonym prātipadika from Stage 10 with another prātipadika — e.g., take "nīla" (blue) + "kaṇṭha" (throat) for a bahuvrīhi, then use that fused samāsa inside a vocative prayer from Stage 8: "he nīlakaṇṭha! pāhi mām!" Remember: sandhi (physics of the snap) applies at the junction.
+**Try snapping**: Build a deity epithet by fusing a synonym prātipadika from Stage 9 with another prātipadika — e.g., take "nīla" (blue) + "kaṇṭha" (throat) for a bahuvrīhi, then use that fused samāsa inside a vocative prayer from Stage 7: "he nīlakaṇṭha! pāhi mām!" Remember: sandhi (physics of the snap) applies at the junction.

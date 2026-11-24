@@ -1,4 +1,4 @@
-# Stage 31 Badge: Dhāraṇāvit I
+# Stage 30 Badge: Dhāraṇāvit I
 
 **Title:** Memory Holder
 **Badge:** 🏅 Dhāraṇāvit I
@@ -15,4 +15,4 @@ Post your submission in **#badge-submissions** on Discord. A reviewer will verif
 
 ## Unlock
 
-Completing this badge unlocks Stage 32 content and grants the **Dhāraṇāvit I** role on Discord.
+Completing this badge unlocks Stage 31 content and grants the **Dhāraṇāvit I** role on Discord.

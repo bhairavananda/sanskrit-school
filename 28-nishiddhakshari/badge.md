@@ -1,4 +1,4 @@
-# Stage 29 Badge: Niṣiddhākṣarīkāra
+# Stage 28 Badge: Niṣiddhākṣarīkāra
 
 **Title:** Letter Dodger
 **Badge:** 🏅 Niṣiddhākṣarīkāra
@@ -15,4 +15,4 @@ Post your submission in **#badge-submissions** on Discord. A reviewer will verif
 
 ## Unlock
 
-Completing this badge unlocks Stage 30 content and grants the **Niṣiddhākṣarīkāra** role on Discord.
+Completing this badge unlocks Stage 29 content and grants the **Niṣiddhākṣarīkāra** role on Discord.

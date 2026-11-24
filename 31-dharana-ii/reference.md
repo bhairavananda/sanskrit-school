@@ -1,4 +1,4 @@
-# Stage 28: Dhāraṇā II — Reference Guide
+# Stage 31: Dhāraṇā II — Reference Guide
 
 ## Quick-Access Deity Banks
 

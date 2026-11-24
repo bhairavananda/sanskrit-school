@@ -1,4 +1,4 @@
-# Stage 3: Rūpa — Workbook (Answers)
+# Stage 4: Rūpa — Workbook (Answers)
 
 ## Section A: Case Identification
 

@@ -1,4 +1,4 @@
-# Stage 20: Alaṅkāra — Reference Guide
+# Stage 23: Alaṅkāra — Reference Guide
 
 ## Alaṅkāra Quick Table
 

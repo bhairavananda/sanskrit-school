@@ -1,4 +1,4 @@
-# Stage 19: Paryāya-Chandas — Workbook (Questions)
+# Stage 22: Paryāya-Chandas — Workbook (Questions)
 
 ## Section A: Pattern Matching (15 marks)
 **A1.** For each concept, give a synonym matching the required prosodic pattern (10 marks):

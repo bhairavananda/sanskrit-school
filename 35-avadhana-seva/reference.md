@@ -1,4 +1,4 @@
-# Stage 32: Avadhāna-Sevā — Reference Guide
+# Stage 35: Avadhāna-Sevā — Reference Guide
 
 ## Avadhāna Performance Checklist
 
@@ -58,7 +58,7 @@
 
 Avadhāna is not a dead art. It lives wherever a poet sits before an audience, receives impossible challenges, and — through grace, practice, and attention — transforms constraint into beauty.
 
-Your journey from nāma (Stage 1) to avadhāna-sevā (Stage 32) is complete as a curriculum. But as practice, it never ends.
+Your journey from nāma (Stage 1) to avadhāna-sevā (Stage 35) is complete as a curriculum. But as practice, it never ends.
 
 > anantā vai vedāḥ — the Vedas are infinite
 > anantā vai kavitā — poetry too is infinite

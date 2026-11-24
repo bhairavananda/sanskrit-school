@@ -1,4 +1,4 @@
-# Stage 18 Badge: Kathāvācaka
+# Stage 17 Badge: Kathāvācaka
 
 **Title:** Story Teller
 **Badge:** 🏅 Kathāvācaka
@@ -15,4 +15,4 @@ Post your submission in **#badge-submissions** on Discord. A reviewer will verif
 
 ## Unlock
 
-Completing this badge unlocks Stage 19 content and grants the **Kathāvācaka** role on Discord.
+Completing this badge unlocks Stage 18 content and grants the **Kathāvācaka** role on Discord.

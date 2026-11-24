@@ -1,4 +1,4 @@
-# Stage 21 Badge: Chandasvit II
+# Stage 20 Badge: Chandasvit II
 
 **Title:** Anuṣṭubh Composer
 **Badge:** 🏅 Chandasvit II
@@ -15,4 +15,4 @@ Post your submission in **#badge-submissions** on Discord. A reviewer will verif
 
 ## Unlock
 
-Completing this badge unlocks Stage 22 content and grants the **Chandasvit II** role on Discord.
+Completing this badge unlocks Stage 21 content and grants the **Chandasvit II** role on Discord.

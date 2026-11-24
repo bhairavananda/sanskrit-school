@@ -1,4 +1,4 @@
-# Varṇa-Vidyā — Reference Guide
+# Stage 2: Varṇa-Vidyā — Reference Guide
 
 ## The Five Sthānas (Places of Articulation)
 

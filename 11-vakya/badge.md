@@ -1,4 +1,4 @@
-# Stage 12 Badge: Vākyakāra
+# Stage 11 Badge: Vākyakāra
 
 **Title:** Free Builder
 **Badge:** 🏅 Vākyakāra
@@ -15,4 +15,4 @@ Post your submission in **#badge-submissions** on Discord. A reviewer will verif
 
 ## Unlock
 
-Completing this badge unlocks Stage 13 content and grants the **Vākyakāra** role on Discord.
+Completing this badge unlocks Stage 12 content and grants the **Vākyakāra** role on Discord.

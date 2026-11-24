@@ -1,4 +1,4 @@
-# Stage 5: Kāraka — Reference Guide
+# Stage 6: Kāraka — Reference Guide
 
 ## Kāraka-Vibhakti Mapping
 

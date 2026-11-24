@@ -1,4 +1,4 @@
-# Stage 25 Badge: Rasavit
+# Stage 24 Badge: Rasavit
 
 **Title:** Rasa Artist
 **Badge:** 🏅 Rasavit
@@ -15,4 +15,4 @@ Post your submission in **#badge-submissions** on Discord. A reviewer will verif
 
 ## Unlock
 
-Completing this badge unlocks Stage 26 content and grants the **Rasavit** role on Discord.
+Completing this badge unlocks Stage 25 content and grants the **Rasavit** role on Discord.

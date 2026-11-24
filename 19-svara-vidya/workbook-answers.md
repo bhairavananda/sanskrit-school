@@ -1,4 +1,4 @@
-# Svara-Vidyā — Workbook (Answers)
+# Stage 19: Svara-Vidyā — Workbook (Answers)
 
 ## Section A: The Three Svaras
 
@@ -123,7 +123,7 @@ ABC:   namaḥ śivāya ca
 
 2. **Sonic architecture:** When words are woven forward and backward, the sound-patterns overlap and interfere constructively. Linear recitation produces a one-dimensional stream. Jaṭā produces a two-dimensional weave (forward + backward). Ghana produces a three-dimensional structure (forward + backward + triple-compound). The result is overtone patterns and resonance effects that do not exist in linear recitation — the woven sound fills acoustic space differently. Chamaka-ghana, for instance, produces a quality of sustained resonance that simple Chamakam recitation does not.
 
-3. **Dhāraṇā training:** To recite ghana-pāṭha, the reciter must simultaneously hold: (a) the current position in the source text, (b) the forward sequence, (c) the backward sequence, (d) the triple-compound sequence, and (e) where to shift next. This is *divided attention on multiple simultaneous threads* — exactly the skill required for avadhāna, where you hold eight challenges at once, cycling between them while remembering the state of each. The vikṛtis are, in effect, avadhāna training built into the recitation tradition. A competent ghana-pāṭhī already has the core dhāraṇā skill that stages 27-31 of this syllabus develop.
+3. **Dhāraṇā training:** To recite ghana-pāṭha, the reciter must simultaneously hold: (a) the current position in the source text, (b) the forward sequence, (c) the backward sequence, (d) the triple-compound sequence, and (e) where to shift next. This is *divided attention on multiple simultaneous threads* — exactly the skill required for avadhāna, where you hold eight challenges at once, cycling between them while remembering the state of each. The vikṛtis are, in effect, avadhāna training built into the recitation tradition. A competent ghana-pāṭhī already has the core dhāraṇā skill that stages 30–34 of this syllabus develop.
 
 ---
 
@@ -153,7 +153,7 @@ Weight is about the *body* of the verse (its rhythmic skeleton). Pitch is about 
 
 **F1.**
 
-1. **Varṇa** — controls the *identity* of the sound (which phoneme). Learned in Varṇa-Vidyā (after Stage 1). Getting it wrong: you produce a different word entirely or nonsense. A mispronounced letter is a different letter.
+1. **Varṇa** — controls the *identity* of the sound (which phoneme). Learned in Varṇa-Vidyā (Stage 2). Getting it wrong: you produce a different word entirely or nonsense. A mispronounced letter is a different letter.
 
 2. **Svara** — controls the *pitch* of the syllable (high/low/falling). Learned in this stage (Svara-Vidyā, after Chandas I). Getting it wrong: the Indraśatru effect — the mantra is grammatically valid but semantically redirected. The power goes to the wrong target.
 

@@ -1,4 +1,4 @@
-# Stage 6: Sambodhana — Workbook (Answers)
+# Stage 7: Sambodhana — Workbook (Answers)
 
 ## Section A
 

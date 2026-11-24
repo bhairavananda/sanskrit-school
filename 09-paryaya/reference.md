@@ -1,4 +1,4 @@
-# Stage 8: Paryāya — Reference Guide
+# Stage 9: Paryāya — Reference Guide
 
 ## Synonyms by Category
 

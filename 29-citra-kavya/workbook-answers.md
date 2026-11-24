@@ -1,4 +1,4 @@
-# Stage 26: Citra-kāvya — Workbook (Answers)
+# Stage 29: Citra-kāvya — Workbook (Answers)
 
 ## Section A
 **A1.** Sample (anuṣṭubh + Devī + padma):

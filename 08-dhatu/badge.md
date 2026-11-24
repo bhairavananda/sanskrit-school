@@ -1,4 +1,4 @@
-# Stage 9 Badge: Dhātuvit
+# Stage 8 Badge: Dhātuvit
 
 **Title:** Root Seer
 **Badge:** 🏅 Dhātuvit
@@ -17,4 +17,4 @@ Post your submission in **#badge-submissions** on Discord. A reviewer will verif
 
 ## Unlock
 
-Completing this badge unlocks Stage 10 content and grants the **Dhātuvit** role on Discord.
+Completing this badge unlocks Stage 9 content and grants the **Dhātuvit** role on Discord.

@@ -1,4 +1,4 @@
-# Stage 22: Darśana — Reference Guide
+# Stage 25: Darśana — Reference Guide
 
 ## Philosophical Vocabulary by Category
 

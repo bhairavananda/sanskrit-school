@@ -1,4 +1,4 @@
-# Stage 2: Guṇa — Reference Guide
+# Stage 3: Guṇa — Reference Guide
 
 ## Adjective Agreement Quick Table
 

@@ -1,4 +1,4 @@
-# Stage 28: Dhāraṇā II — Workbook (Questions)
+# Stage 31: Dhāraṇā II — Workbook (Questions)
 
 ## Section A: Flash Response (15 marks)
 Produce ONE pāda (8 syllables) for each cue. Time yourself — aim for under 30 seconds each.
@@ -27,7 +27,7 @@ For Śiva alone, produce 5 pādas, each in a different rasa. Time the total.
 Total time: ___
 
 ## Section D: Cue Reconstruction (10 marks)
-Your teacher gives you only the first word of a pāda you composed earlier (in Stage 27). Reconstruct the full pāda from the cue.
+Your teacher gives you only the first word of a pāda you composed earlier (in Stage 30). Reconstruct the full pāda from the cue.
 1. Cue: "śāntam" → your pāda: ___
 2. Cue: "jagadambām" → your pāda: ___
 

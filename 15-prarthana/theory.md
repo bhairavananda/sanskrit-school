@@ -1,4 +1,4 @@
-# Stage 14: Prārthanā — Requests and Imperatives
+# Stage 15: Prārthanā — Requests and Imperatives
 
 ## Goal
 Compose original prayers with imperatives, optatives, and benedictions. Master the grammar of asking gracefully — from urgent plea to gentle request.

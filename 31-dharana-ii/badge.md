@@ -1,4 +1,4 @@
-# Stage 32 Badge: Dhāraṇāvit II
+# Stage 31 Badge: Dhāraṇāvit II
 
 **Title:** Recall Artist
 **Badge:** 🏅 Dhāraṇāvit II
@@ -15,4 +15,4 @@ Post your submission in **#badge-submissions** on Discord. A reviewer will verif
 
 ## Unlock
 
-Completing this badge unlocks Stage 33 content and grants the **Dhāraṇāvit II** role on Discord.
+Completing this badge unlocks Stage 32 content and grants the **Dhāraṇāvit II** role on Discord.

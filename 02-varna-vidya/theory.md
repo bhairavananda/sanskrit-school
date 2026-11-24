@@ -1,4 +1,4 @@
-# Varṇa-Vidyā — The Science of the Sacred Letter
+# Stage 2: Varṇa-Vidyā — The Science of the Sacred Letter
 
 ## Goal
 Understand that Sanskrit letters are not arbitrary symbols but structured vibrational units with specific places of articulation, elemental correspondences, and mantric function. Learn to analyze bījākṣaras letter-by-letter. See the Maheshvara Sūtrāṇi as the compression algorithm of the entire phoneme system.
@@ -6,7 +6,7 @@ Understand that Sanskrit letters are not arbitrary symbols but structured vibrat
 In LEGO terms, this stage teaches the **physical material that bricks are made of** — sthāna (place) and prayatna (effort) determine each sound's identity, just as the plastic composition and stud geometry determine what a LEGO element can do.
 
 ## Position in the Syllabus
-Insert after Stage 1 (Nāma), before Guṇa. Before you learn how words combine and inflect, you must understand what the letters themselves *are.*
+This stage comes after Nāma (Stage 1) and before Guṇa (Stage 3). Before you learn how words combine and inflect, you must understand what the letters themselves *are.*
 
 ---
 

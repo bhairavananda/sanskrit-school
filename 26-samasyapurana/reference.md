@@ -1,4 +1,4 @@
-# Stage 23: Samasyāpūraṇa — Reference Guide
+# Stage 26: Samasyāpūraṇa — Reference Guide
 
 ## Problem-Solving Approaches
 

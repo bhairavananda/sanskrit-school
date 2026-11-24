@@ -1,10 +1,10 @@
-# Pūjā-Vāk — The Sanskrit of Ritual
+# Stage 16: Pūjā-Vāk — The Sanskrit of Ritual
 
 ## Goal
 Understand how Sanskrit actually functions inside a pūjā — not as "prayers recited in Sanskrit" but as a precise technology where grammar, mantra-structure, and ritual action are inseparable. Learn to read saṅkalpa, nyāsa, dhyāna-śloka, and āvaraṇa-pūjā as applied Sanskrit grammar.
 
 ## Position in the Syllabus
-Insert after Prārthanā (Stage 14). You can now compose original prayers. This stage shows you how the tradition composes its prayers — with exact grammatical and mantric architecture.
+This stage comes after Prārthanā (Stage 15). You can now compose original prayers. This stage shows you how the tradition composes its prayers — with exact grammatical and mantric architecture.
 
 ## Source Material
 Primary examples drawn from:

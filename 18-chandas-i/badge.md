@@ -1,4 +1,4 @@
-# Stage 19 Badge: Chandasvit I
+# Stage 18 Badge: Chandasvit I
 
 **Title:** Meter Listener
 **Badge:** 🏅 Chandasvit I
@@ -17,4 +17,4 @@ Post your submission in **#badge-submissions** on Discord. A reviewer will verif
 
 ## Unlock
 
-Completing this badge unlocks Stage 20 content and grants the **Chandasvit I** role on Discord.
+Completing this badge unlocks Stage 19 content and grants the **Chandasvit I** role on Discord.

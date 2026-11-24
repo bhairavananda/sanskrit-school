@@ -1,4 +1,4 @@
-# Stage 10 Badge: Paryāyavit
+# Stage 9 Badge: Paryāyavit
 
 **Title:** Epithet Weaver
 **Badge:** 🏅 Paryāyavit
@@ -16,4 +16,4 @@ Post your submission in **#badge-submissions** on Discord. A reviewer will verif
 
 ## Unlock
 
-Completing this badge unlocks Stage 11 content and grants the **Paryāyavit** role on Discord.
+Completing this badge unlocks Stage 10 content and grants the **Paryāyavit** role on Discord.

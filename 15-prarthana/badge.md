@@ -1,4 +1,4 @@
-# Stage 16 Badge: Prārthanāsiddha
+# Stage 15 Badge: Prārthanāsiddha
 
 **Title:** Prayer Composer
 **Badge:** 🏅 Prārthanāsiddha
@@ -15,4 +15,4 @@ Post your submission in **#badge-submissions** on Discord. A reviewer will verif
 
 ## Unlock
 
-Completing this badge unlocks Stage 17 content and grants the **Prārthanāsiddha** role on Discord.
+Completing this badge unlocks Stage 16 content and grants the **Prārthanāsiddha** role on Discord.

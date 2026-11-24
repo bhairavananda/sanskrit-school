@@ -1,4 +1,4 @@
-# Stage 35 Badge: Aṣṭāvadhānī
+# Stage 34 Badge: Aṣṭāvadhānī
 
 **Title:** Eight-Fold Attention
 **Badge:** 🏅 Aṣṭāvadhānī
@@ -15,4 +15,4 @@ Post your submission in **#badge-submissions** on Discord. A reviewer will verif
 
 ## Unlock
 
-Completing this badge unlocks Stage 36 content and grants the **Aṣṭāvadhānī** role on Discord.
+Completing this badge unlocks Stage 35 content and grants the **Aṣṭāvadhānī** role on Discord.

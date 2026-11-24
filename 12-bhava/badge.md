@@ -1,4 +1,4 @@
-# Stage 13 Badge: Bhāvavit
+# Stage 12 Badge: Bhāvavit
 
 **Title:** Emotion Speaker
 **Badge:** 🏅 Bhāvavit
@@ -15,4 +15,4 @@ Post your submission in **#badge-submissions** on Discord. A reviewer will verif
 
 ## Unlock
 
-Completing this badge unlocks Stage 14 content and grants the **Bhāvavit** role on Discord.
+Completing this badge unlocks Stage 13 content and grants the **Bhāvavit** role on Discord.

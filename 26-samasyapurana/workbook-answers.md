@@ -1,4 +1,4 @@
-# Stage 23: Samasyāpūraṇa — Workbook (Answers)
+# Stage 26: Samasyāpūraṇa — Workbook (Answers)
 
 ## Section A
 **A1.**

@@ -1,4 +1,4 @@
-# Stage 34 Badge: Bahudevatāvit
+# Stage 33 Badge: Bahudevatāvit
 
 **Title:** Deity Switcher
 **Badge:** 🏅 Bahudevatāvit
@@ -15,4 +15,4 @@ Post your submission in **#badge-submissions** on Discord. A reviewer will verif
 
 ## Unlock
 
-Completing this badge unlocks Stage 35 content and grants the **Bahudevatāvit** role on Discord.
+Completing this badge unlocks Stage 34 content and grants the **Bahudevatāvit** role on Discord.

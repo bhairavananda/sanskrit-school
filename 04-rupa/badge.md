@@ -1,4 +1,4 @@
-# Stage 5 Badge: Rūpavit
+# Stage 4 Badge: Rūpavit
 
 **Title:** Baseplate Master
 **Badge:** 🏅 Rūpavit
@@ -17,4 +17,4 @@ Post your submission in **#badge-submissions** on Discord. A reviewer will verif
 
 ## Unlock
 
-Completing this badge unlocks Stage 6 content and grants the **Rūpavit** role on Discord.
+Completing this badge unlocks Stage 5 content and grants the **Rūpavit** role on Discord.

@@ -1,4 +1,4 @@
-# Stage 14 Badge: Stutikāra I
+# Stage 13 Badge: Stutikāra I
 
 **Title:** First Praise
 **Badge:** 🏅 Stutikāra I
@@ -15,4 +15,4 @@ Post your submission in **#badge-submissions** on Discord. A reviewer will verif
 
 ## Unlock
 
-Completing this badge unlocks Stage 15 content and grants the **Stutikāra I** role on Discord.
+Completing this badge unlocks Stage 14 content and grants the **Stutikāra I** role on Discord.

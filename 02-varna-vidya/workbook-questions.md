@@ -1,4 +1,4 @@
-# Varṇa-Vidyā — Workbook (Questions)
+# Stage 2: Varṇa-Vidyā — Workbook (Questions)
 
 ## Section A: Sthāna Identification (15 marks)
 

@@ -1,4 +1,4 @@
-# Stage 4 Badge: Guṇavit
+# Stage 3 Badge: Guṇavit
 
 **Title:** Quality Weaver
 **Badge:** 🏅 Guṇavit
@@ -16,4 +16,4 @@ Post your submission in **#badge-submissions** on Discord. A reviewer will verif
 
 ## Unlock
 
-Completing this badge unlocks Stage 5 content and grants the **Guṇavit** role on Discord.
+Completing this badge unlocks Stage 4 content and grants the **Guṇavit** role on Discord.

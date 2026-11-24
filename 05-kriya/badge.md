@@ -1,4 +1,4 @@
-# Stage 6 Badge: Kriyāvit
+# Stage 5 Badge: Kriyāvit
 
 **Title:** Verb Builder
 **Badge:** 🏅 Kriyāvit
@@ -17,4 +17,4 @@ Post your submission in **#badge-submissions** on Discord. A reviewer will verif
 
 ## Unlock
 
-Completing this badge unlocks Stage 7 content and grants the **Kriyāvit** role on Discord.
+Completing this badge unlocks Stage 6 content and grants the **Kriyāvit** role on Discord.

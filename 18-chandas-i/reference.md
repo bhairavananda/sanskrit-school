@@ -1,4 +1,4 @@
-# Stage 16: Chandas I — Reference Guide
+# Stage 18: Chandas I — Reference Guide
 
 ## Laghu/Guru Rules
 

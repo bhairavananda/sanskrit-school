@@ -1,4 +1,4 @@
-# Stage 24: Dattapadī — Reference Guide
+# Stage 27: Dattapadī — Reference Guide
 
 ## Integration Techniques Summary
 

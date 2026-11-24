@@ -1,4 +1,4 @@
-# Stage 28 Badge: Dattapadīkāra
+# Stage 27 Badge: Dattapadīkāra
 
 **Title:** Forced-Word Poet
 **Badge:** 🏅 Dattapadīkāra
@@ -15,4 +15,4 @@ Post your submission in **#badge-submissions** on Discord. A reviewer will verif
 
 ## Unlock
 
-Completing this badge unlocks Stage 29 content and grants the **Dattapadīkāra** role on Discord.
+Completing this badge unlocks Stage 28 content and grants the **Dattapadīkāra** role on Discord.

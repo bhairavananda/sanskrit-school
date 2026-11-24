@@ -161,7 +161,7 @@ Think of the stem as the baseplate onto which sup endings are attached. These ar
 
 Instead of memorizing hundreds of unrelated tables, we learn a representative deity or word for each major pattern. The baseplates are introduced in three tiers across the course.
 
-### Core Baseplates (Stage 5)
+### Core Baseplates (Stage 4)
 
 The seven vowel-stem families every beginner must learn:
 
@@ -175,7 +175,7 @@ The seven vowel-stem families every beginner must learn:
 | **-ū** | long ū | **Vadhū** | feminine | vadhūḥ, vadhūm, vadhvā… |
 | **-ṛ** | vocalic ṛ | **Mātṛ / Pitṛ** | both genders | mātā, mātaram, mātrā… |
 
-### Intermediate Baseplates (Stage 9)
+### Intermediate Baseplates (Stage 8)
 
 Consonant-stem families that appear constantly in devotional and philosophical Sanskrit:
 
@@ -188,7 +188,7 @@ Consonant-stem families that appear constantly in devotional and philosophical S
 
 > "Consonant stem" is a broad category. Do NOT present -at as simply "consonant." Each sub-family (-an, -in, -ant, -man) has its own declensional behavior.
 
-### Advanced Baseplates (Stage 12+)
+### Advanced Baseplates (Stage 11+)
 
 For students who already understand the general sup machinery:
 
@@ -251,7 +251,7 @@ Reading Sanskrit is disassembly. Writing Sanskrit is assembly. This course train
 
 ## The Deepest Arc
 
-Across all 36 stages, the progression follows one line:
+Across all 35 stages, the progression follows one line:
 
 > **recognize → decompose → generate → compose → beautify → constrain → improvise**
 
@@ -261,7 +261,7 @@ Or in the language of the construction system:
 
 ---
 
-# The 36 Stages
+# The 35 Stages
 
 The course progresses like a construction game.
 
@@ -281,17 +281,16 @@ Eventually, you compose Sanskrit **under multiple simultaneous constraints**, cu
 
 ## Phase I · Learn the Pieces
 
-### Stages 1–7
+### Stages 1–6
 
 | Stage               | Skill              | What you gain                                                 |
 | ------------------- | ------------------ | ------------------------------------------------------------- |
 | **1 · Nāma**        | Vocabulary         | Collect your first semantic bricks — deities, pūjā objects, nature, body, sacred space |
 | **2 · Varṇa-Vidyā** | Sound              | The physical material bricks are made of — every Sanskrit sound by articulation and structure |
-| **3 · Sandhi**      | Joining            | The physics of connection — what happens at every joint       |
-| **4 · Guṇa**        | Description        | Build rich descriptions: sundara, mahān, karuṇāmaya…          |
-| **5 · Rūpa**        | Declension         | Noun connectors (sup) — how prātipadikas plug into sentences  |
-| **6 · Kriyā**       | Verbs              | The verb control panel (tiṅ) — action, command, desire, tense |
-| **7 · Kāraka**      | Sentence structure | Understand who does what to whom, where, how, and why         |
+| **3 · Guṇa**        | Description        | Build rich descriptions: sundara, mahān, karuṇāmaya…          |
+| **4 · Rūpa**        | Declension         | Noun connectors (sup) — how prātipadikas plug into sentences  |
+| **5 · Kriyā**       | Verbs              | The verb control panel (tiṅ) — action, command, desire, tense |
+| **6 · Kāraka**      | Sentence structure | Understand who does what to whom, where, how, and why         |
 
 By the end of Phase I, you can construct sentences such as:
 
@@ -305,15 +304,16 @@ You are no longer repeating a sentence someone gave you. You know **why every wo
 
 ## Phase II · Learn to Build
 
-### Stages 8–12
+### Stages 7–12
 
 | Stage              | Skill            | What you gain                                      |
 | ------------------ | ---------------- | -------------------------------------------------- |
-| **8 · Sambodhana** | Invocation       | Address the deity directly: *he devi!*             |
-| **9 · Dhātu**      | Word generation  | Root families, upasargas, and the conversion kit (pratyaya) — intermediate consonant-stem families |
-| **10 · Paryāya**   | Synonyms         | Develop multiple ways to express the same idea     |
-| **11 · Samāsa**    | Compounds        | Fusing models into one — nīla + kaṇṭha → **nīlakaṇṭha** |
-| **12 · Vākya**     | Free composition | Advanced prātipadikas (s-stems, root stems, pronouns, numerals); begin thinking and generating directly in Sanskrit |
+| **7 · Sambodhana** | Invocation       | Address the deity directly: *he devi!*             |
+| **8 · Dhātu**      | Word generation  | Root families, upasargas, and the conversion kit (pratyaya) — intermediate consonant-stem families |
+| **9 · Paryāya**    | Synonyms         | Develop multiple ways to express the same idea     |
+| **10 · Samāsa**    | Compounds        | Fusing models into one — nīla + kaṇṭha → **nīlakaṇṭha** |
+| **11 · Vākya**     | Free composition | Advanced prātipadikas (s-stems, root stems, pronouns, numerals); begin thinking and generating directly in Sanskrit |
+| **12 · Bhāva**     | Emotional vocabulary | Name and express inner states — longing, wonder, surrender, joy |
 
 At this point, Sanskrit stops being something you merely **decode**.
 
@@ -378,7 +378,7 @@ It becomes **kāvya**.
 
 ## Phase V · Build Under Pressure
 
-### Stages 26–36
+### Stages 26–35
 
 Now the game changes.
 
@@ -408,8 +408,7 @@ This is the road toward **avadhāna**.
 | **32 · Aprastuta-Prasaṅga** | Wit                 | Maintain composition while handling interruptions      |
 | **33 · Multi-Devatā**       | Rapid switching     | Change subject and devotional register mid-composition |
 | **34 · Aṣṭāvadhāna**        | Eightfold attention | Coordinate eight simultaneous challenges               |
-| **35 · Sva-Avadhāna**       | Challenge design    | Construct your own constraint systems                  |
-| **36 · Avadhāna-Sevā**      | Living mastery      | Use mastery as performance, offering and transmission  |
+| **35 · Avadhāna-Sevā**      | Living mastery      | Use mastery as performance, offering and transmission  |
 
 The final goal is not simply:
 

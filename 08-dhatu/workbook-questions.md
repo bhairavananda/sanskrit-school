@@ -1,4 +1,4 @@
-# Stage 7: Dhātu — Workbook (Questions)
+# Stage 8: Dhātu — Workbook (Questions)
 
 ## Section A: Root Identification (15 marks)
 
@@ -94,7 +94,7 @@
 
 ## Section E: Composition (Rachanā)
 
-Using everything learned through Stage 9, compose the following:
+Using everything learned through Stage 8, compose the following:
 
 Take 5 dhātus and show how adding different upasargas changes meaning. Then use each derived verb in a devotional sentence.
 
@@ -118,7 +118,7 @@ Take 5 dhātus and show how adding different upasargas changes meaning. Then use
    - upasarga + root = ___ (meaning: ___)
    - Sentence: ___
 
-In each sentence, remember to apply sandhi rules from Stage 3 at word junctions. Use adjective agreement from Stage 4 to describe nouns. Include at least 3 kārakas from Stage 7 per sentence (kartā, karma, karaṇa, etc.). Address the deity using vocative forms from Stage 8 in at least 2 of your sentences.
+In each sentence, remember to apply sandhi rules from Stage 3 at word junctions. Use adjective agreement from Stage 3 to describe nouns. Include at least 3 kārakas from Stage 6 per sentence (kartā, karma, karaṇa, etc.). Address the deity using vocative forms from Stage 8 in at least 2 of your sentences.
 
 ---
 

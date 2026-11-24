@@ -1,4 +1,4 @@
-# Stage 31: Aṣṭāvadhāna — Integrated Attention (Eight Offerings)
+# Stage 34: Aṣṭāvadhāna — Integrated Attention (Eight Offerings)
 
 ## Goal
 Complete a simulated Aṣṭāvadhāna — managing eight simultaneous challenges from eight pṛcchakas, producing correct compositions under all constraints.

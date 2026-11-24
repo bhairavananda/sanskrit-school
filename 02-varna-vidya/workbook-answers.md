@@ -1,4 +1,4 @@
-# Varṇa-Vidyā — Workbook (Answers)
+# Stage 2: Varṇa-Vidyā — Workbook (Answers)
 
 ## Section A: Sthāna Identification
 

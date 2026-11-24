@@ -1,4 +1,4 @@
-# Stage 32: Avadhāna-Sevā — Final Examination (Answers)
+# Stage 35: Avadhāna-Sevā — Final Examination (Answers)
 
 ## Scoring Rubric (100 marks total)
 
@@ -60,7 +60,7 @@ Accept either interpretation. Exact count = 6 marks, off by 1 = 4, off by 2 = 2.
 | 90-100 | Avadhānī | Ready for public performance |
 | 75-89 | Siddha-kavitā | Near-mastery, continue drilling |
 | 60-74 | Upāsaka | Strong foundation, needs speed |
-| 45-59 | Abhyāsī | Good effort, review stages 23-30 |
+| 45-59 | Abhyāsī | Good effort, review stages 26–33 |
 | Below 45 | Śiṣya | Continue learning — return to earlier stages |
 
 ---
@@ -79,4 +79,4 @@ oṃ tat sat.
 
 ---
 
-iti saṃskṛta-vidyālayasya dvātriṃśat-sopāna-pāṭhakramaḥ samāptaḥ.
+iti saṃskṛta-vidyālayasya pañcatriṃśat-sopāna-pāṭhakramaḥ samāptaḥ.

@@ -1,4 +1,4 @@
-# Stage 26 Badge: Darśanavit
+# Stage 25 Badge: Darśanavit
 
 **Title:** Philosopher-Poet
 **Badge:** 🏅 Darśanavit
@@ -15,4 +15,4 @@ Post your submission in **#badge-submissions** on Discord. A reviewer will verif
 
 ## Unlock
 
-Completing this badge unlocks Stage 27 content and grants the **Darśanavit** role on Discord.
+Completing this badge unlocks Stage 26 content and grants the **Darśanavit** role on Discord.

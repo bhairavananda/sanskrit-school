@@ -1,4 +1,4 @@
-# Stage 32: Avadhāna-Sevā — Mastery
+# Stage 35: Avadhāna-Sevā — Mastery
 
 ## Goal
 The performance itself becomes offering. You are now an Avadhānī — one whose attention is an act of worship.
@@ -84,5 +84,5 @@ This is why it is called sevā.
 
 ---
 
-iti saṃskṛta-vidyālaye dvātriṃśat-sopāna-pāṭhaḥ samāptaḥ.
-Thus concludes the 32-stage curriculum of the Sanskrit School.
+iti saṃskṛta-vidyālaye pañcatriṃśat-sopāna-pāṭhaḥ samāptaḥ.
+Thus concludes the 35-stage curriculum of the Sanskrit School.

@@ -1,4 +1,4 @@
-# Stage 7 Badge: Kārakavit
+# Stage 6 Badge: Kārakavit
 
 **Title:** Sentence Architect
 **Badge:** 🏅 Kārakavit
@@ -17,4 +17,4 @@ Post your submission in **#badge-submissions** on Discord. A reviewer will verif
 
 ## Unlock
 
-Completing this badge unlocks Stage 8 content and grants the **Kārakavit** role on Discord.
+Completing this badge unlocks Stage 7 content and grants the **Kārakavit** role on Discord.
