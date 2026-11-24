@@ -114,7 +114,7 @@ Write a 4-line invocation addressing your iṣṭadevatā in the vocative, then 
 3. Line 3 — A request using an imperative verb, with "mām" or "me" as object: ___
 4. Line 4 — A closing line of surrender or praise: ___
 
-Remember to apply sandhi rules from Stage 3 when vowels meet at word boundaries. Use correct vocative endings for masculine (-a→a), feminine (-ā→e, -ī→i), and other stems. Apply adjective-noun agreement from Stage 3 in your descriptive line. Use at least 2 different kāraka roles from Stage 7 across your lines.
+Write words separately, without sandhi between them (see the Sandhi Reference (Overview → Sandhi Reference tab)). Use correct vocative endings for masculine (-a→a), feminine (-ā→e, -ī→i), and other stems. Apply adjective-noun agreement from Stage 3 in your descriptive line. Use at least 2 different kāraka roles from Stage 6 across your lines.
 
 ---
 

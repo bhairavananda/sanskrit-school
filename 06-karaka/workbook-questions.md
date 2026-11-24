@@ -129,7 +129,7 @@ Write 3 sentences about a pūjā scene using at least 4 different kārakas each.
 3. Sentence: ___
    Label each kāraka: kartā = ___, karma = ___, karaṇa = ___, sampradāna = ___, adhikaraṇa = ___
 
-Remember to apply sandhi rules from Stage 3 at word boundaries. Use adjective agreement from Stage 3 when describing the nouns (e.g., "sundaram puṣpam," "śuddham jalam"). Incorporate number forms from Stage 4 if offering multiple items (e.g., "pañca puṣpāṇi"). Use vibhakti endings from Stage 6 correctly for each kāraka role.
+Write words separately, without sandhi between them; this course applies between-word sandhi from Stage 13 (see the Sandhi Reference (Overview → Sandhi Reference tab)). Use adjective agreement from Stage 3 when describing the nouns (e.g., "sundaram puṣpam," "śuddham jalam"). Incorporate number forms from Stage 4 if offering multiple items (e.g., "pañca puṣpāṇi"). Use vibhakti endings from Stage 4 correctly for each kāraka role.
 
 ---
 

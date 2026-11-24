@@ -118,7 +118,7 @@ Take 5 dhātus and show how adding different upasargas changes meaning. Then use
    - upasarga + root = ___ (meaning: ___)
    - Sentence: ___
 
-In each sentence, remember to apply sandhi rules from Stage 3 at word junctions. Use adjective agreement from Stage 3 to describe nouns. Include at least 3 kārakas from Stage 6 per sentence (kartā, karma, karaṇa, etc.). Address the deity using vocative forms from Stage 8 in at least 2 of your sentences.
+In each sentence, apply sandhi inside words (prefix + root, stem + suffix) but write separate words without joining them (see the Sandhi Reference (Overview → Sandhi Reference tab)). Use adjective agreement from Stage 3 to describe nouns. Include at least 3 kārakas from Stage 6 per sentence (kartā, karma, karaṇa, etc.). Address the deity using vocative forms from Stage 7 in at least 2 of your sentences.
 
 ---
 
@@ -215,7 +215,7 @@ In each sentence, remember to apply sandhi rules from Stage 3 at word junctions.
 
 - Each sentence must use at least one consonant-stem noun in a case other than nominative
 - Use at least one -in stem and one -ant/-at stem across your three sentences
-- Apply sandhi at word junctions
+- Apply sandhi inside words; write separate words without joining them
 - Use kāraka roles (kartā, karma, etc.) correctly
 
 1. (sentence using an -in stem): ___

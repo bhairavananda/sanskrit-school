@@ -149,6 +149,8 @@ The difference is that now you will learn to **see the mechanism**.
 
 Once the major sandhi patterns become automatic, long Sanskrit words stop looking like indivisible objects. You can pull them apart and discover what is hiding inside.
 
+All the rules are collected on one page: the **Sandhi Reference** tab next to this overview. In Stages 1–12 the course applies sandhi inside words (compounds, prefixes, suffixes) but writes separate words unjoined, so every ending stays visible. From Stage 13 onward, texts are written with full sandhi, as you will find them in stotras and śāstra.
+
 ---
 
 ## The Baseplates: Why Rāma and Viṣṇu Behave Differently

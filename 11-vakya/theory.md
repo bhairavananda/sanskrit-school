@@ -255,7 +255,7 @@ The student is now assembling complete scenes from all the components learned: p
 | Prātipadika | Finished subassembly | Stages 1, 3–4, 8 |
 | Sup | Noun connector | Stage 4, refined in Stage 6 (kāraka) |
 | Tiṅ | Verb control panel | Stage 5 |
-| Sandhi | Physics of the snap (not a brick — the rules governing how components join) | Stage 3 |
+| Sandhi | Physics of the snap (not a brick — the rules governing how components join) | Sandhi Reference (Overview) |
 | Samāsa | Fusing subassemblies into one larger model | Stage 10 |
 | Vākya | **The complete scene** | This stage |
 

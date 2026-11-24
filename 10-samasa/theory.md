@@ -119,6 +119,6 @@ Can you:
 | Dvandva | Two equal prātipadikas | rāma-lakṣmaṇau: two subassemblies fused with invisible "and" |
 | Avyayībhāva | An indeclinable + a prātipadika | prati-dinam: fused into an adverbial model |
 
-The sandhi at the junction between fused prātipadikas is the physics of the snap — the same rules from Stage 3 apply at every seam.
+The sandhi at the junction between fused prātipadikas is the physics of the snap — the rules in the Sandhi Reference (Overview → Sandhi Reference tab) apply at every seam, and inside a compound they are always applied.
 
 **Try snapping**: Build a deity epithet by fusing a synonym prātipadika from Stage 9 with another prātipadika — e.g., take "nīla" (blue) + "kaṇṭha" (throat) for a bahuvrīhi, then use that fused samāsa inside a vocative prayer from Stage 7: "he nīlakaṇṭha! pāhi mām!" Remember: sandhi (physics of the snap) applies at the junction.

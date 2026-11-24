@@ -12,14 +12,19 @@ OUTPUT = os.path.join(SCHOOL_DIR, "index.html")
 
 stages = []
 
-overview_path = os.path.join(SCHOOL_DIR, "00-overview.md")
-if os.path.exists(overview_path):
-    with open(overview_path, "r") as f:
-        stages.append({
-            "id": "00-overview", "number": 0,
-            "title": "Overview", "subtitle": "Building Sanskrit Like LEGO",
-            "files": {"overview": f.read()}, "tabs": ["overview"]
-        })
+# Stage 0 holds the course-wide pages: the overview and the sandhi reference.
+overview_files = {}
+for key, fname in [("overview", "00-overview.md"), ("sandhi", "sandhi-reference.md")]:
+    fpath = os.path.join(SCHOOL_DIR, fname)
+    if os.path.exists(fpath):
+        with open(fpath, "r") as f:
+            overview_files[key] = f.read()
+if overview_files:
+    stages.append({
+        "id": "00-overview", "number": 0,
+        "title": "Overview", "subtitle": "Building Sanskrit Like LEGO",
+        "files": overview_files, "tabs": list(overview_files)
+    })
 
 stage_meta = {
     "01-nama": ("Nama", "Basic Vocabulary"),
@@ -60,6 +65,7 @@ stage_meta = {
 }
 
 file_labels = {
+    "overview": "Overview", "sandhi": "Sandhi Reference",
     "bricks": "Bricks",
     "theory": "Theory", "reference": "Reference",
     "workbook-questions": "Questions", "workbook-answers": "Answers",
@@ -1470,21 +1476,15 @@ function selectStage(idx) {
 
   // Build tabs
   const tabBar = document.getElementById('tabBar');
-  if (stage.number === 0) {
-    tabBar.innerHTML = '<div class="tab active">Overview</div>';
-    renderContent(stage.files.overview);
-    currentTab = 'overview';
-  } else {
-    let tabHtml = '';
-    stage.tabs.forEach((t, ti) => {
-      const cls = ti === 0 ? 'active' : '';
-      const label = FILE_LABELS[t] || t;
-      tabHtml += '<div class="tab ' + cls + '" data-tab="' + t + '" onclick="selectTab(&quot;' + t + '&quot;)">' + label + '</div>';
-    });
-    tabBar.innerHTML = tabHtml;
-    currentTab = stage.tabs[0];
-    renderContent(stage.files[currentTab]);
-  }
+  let tabHtml = '';
+  stage.tabs.forEach((t, ti) => {
+    const cls = ti === 0 ? 'active' : '';
+    const label = FILE_LABELS[t] || t;
+    tabHtml += '<div class="tab ' + cls + '" data-tab="' + t + '" onclick="selectTab(&quot;' + t + '&quot;)">' + label + '</div>';
+  });
+  tabBar.innerHTML = tabHtml;
+  currentTab = stage.tabs[0];
+  renderContent(stage.files[currentTab]);
 
   closeMobileSidebar();
 }
