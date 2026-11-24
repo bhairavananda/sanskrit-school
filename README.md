@@ -50,7 +50,7 @@ Work through the stages sequentially. Master each milestone before moving on.
 
 ## Stage Format
 
-Each stage contains four files:
+Each stage contains five files, plus a `bricks.md` component inventory in stages 2, 4 and 5:
 
 | File | Purpose |
 |:-----|:--------|
@@ -58,8 +58,9 @@ Each stage contains four files:
 | `reference.md` | Quick-lookup tables, paradigms, lists |
 | `workbook-questions.md` | Exercises |
 | `workbook-answers.md` | Answer key |
+| `badge.md` | Milestone checklist that unlocks the next stage |
 
-A `vocab/` library provides 20 thematic word lists — goddess names, weapons, nature, ritual, philosophy, and more.
+A `vocab/` library provides 21 thematic word lists — goddess names, weapons, nature, ritual, philosophy, and more.
 
 <br>
 
